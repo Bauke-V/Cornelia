@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Bauke Verschueren"
+  },
+  "text": {
+    "more": "With the information of the database Cornelia, this database shows the connections of actors in the painters, goldbeaters and stained glass makers guilds in Brussels from 1599 to 1706. They are connected with each other when they are mentioned in the same source entry. The colour of the edges shows the status of the both parties in the relationship.",
+    "intro": "This shows the connections between actors and the source entries they were mentioned in. ",
+    "title": "actors in source entries"
+  },
+  "legend": {
+    "edgeLabel": "mentioned in the same source entry",
+    "colorLabel": "the status of both actors",
+    "nodeLabel": "actors"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Clustering Coefficient",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 4,
+      "minEdgeSize": 4,
+      "minNodeSize": 1,
+      "maxNodeSize": 3
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
