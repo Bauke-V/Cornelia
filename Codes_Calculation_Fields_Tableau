@@ -1,0 +1,43 @@
+Time between promotions:
+  apprentice to master:
+    IF [status] = "master"
+    THEN {FIXED [Name]: MIN(IF [status] = "master" THEN [date_year] END)} 
+    - {FIXED [Name]: MIN(IF [status] = "apprentice" THEN [date_year] END)} 
+    ELSE NULL
+    END  
+  master's son to master:
+    IF [status] = "master"
+    THEN {FIXED [Name]: MIN(IF [status] = "master" THEN [date_year] END)} 
+    - {FIXED [Name]: MIN(IF [status] = "masters sons" THEN [date_year] END)} 
+    ELSE NULL
+    END
+  master to dean:
+    IF [status] = "dean"
+    THEN {FIXED [Name]: MIN(IF [status] = "dean" THEN [date_year] END)} 
+    - {FIXED [Name]: MIN(IF [status] = "master" THEN [date_year] END)} 
+    ELSE NULL
+    END
+  promotion duration:
+    IF [promotions] = "apprentice to master" THEN [apprentice -> master]
+    ELSEIF [promotions] = "masters son to master" THEN [masters son -> master]
+    ELSEIF [promotions] = "master to dean" THEN [master -> dean]
+    ELSE NULL
+    END
+to count the promotions:
+  {FIXED [promotions]: COUNT([apprentice -> master])}
+  {FIXED [promotions]: COUNT([master -> dean])}
+  {FIXED [promotions]: COUNT([masters son -> master])}
+to determine the promotions:
+  IF [status] = "master" AND {FIXED [Name]: COUNT(IF [status] = "apprentice" THEN 1 END)} > 0 THEN "apprentice to master"
+  ELSEIF [status] = "master" AND {FIXED [Name]: COUNT(IF [status] = "masters sons" THEN 1 END)} > 0 THEN "masters son to master"
+  ELSEIF [status] = "dean" AND {FIXED [Name]: COUNT(IF [status] = "master" THEN 1 END)} > 0 THEN "master to dean"
+  ELSE NULL
+  END
+average duration of membership per role:
+  {FIXED [role]: AVG(
+      IF {FIXED [Name]: COUNT([role])} > 1 
+      THEN {FIXED [Name]: MAX([date_year])} - {FIXED [Name]: MIN([date_year])} 
+      ELSE 1 
+      END
+    )}
+  
