@@ -1,0 +1,373 @@
+[
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "status",
+          "expression": "value",
+          "columnName": "status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "recognitie",
+                "l": "recognitie"
+              }
+            },
+            {
+              "v": {
+                "v": "cortosie",
+                "l": "cortosie"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "status",
+    "expression": "grel:value.replace(\"cortosie\", \"master\").replace(\"recognitie\", \"master\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column status using expression grel:value.replace(\"cortosie\", \"master\").replace(\"recognitie\", \"master\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "status",
+    "expression": "grel:value.replace(\"ouderman\", \"dean\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column status using expression grel:value.replace(\"ouderman\", \"dean\")"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "meesterszoon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "masters sons"
+      }
+    ],
+    "description": "Mass edit cells in column status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "leermeester"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "master"
+      }
+    ],
+    "description": "Mass edit cells in column status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "role",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "goudslager"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "goldsmith"
+      }
+    ],
+    "description": "Mass edit cells in column role"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "role",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "glasschilder"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "glazier"
+      }
+    ],
+    "description": "Mass edit cells in column role"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "role",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "gelaesschryver"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "glazier"
+      }
+    ],
+    "description": "Mass edit cells in column role"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "role",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "apotheker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "pharmacist"
+      }
+    ],
+    "description": "Mass edit cells in column role"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "role",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "vergulder"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "gilder"
+      }
+    ],
+    "description": "Mass edit cells in column role"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "actor_surname: score van de beste kandidaat",
+          "expression": "cell.recon.best.score",
+          "columnName": "actor_surname",
+          "from": 90.57000000000001,
+          "to": 100.02,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "actor_surname",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q5",
+        "name": "human"
+      },
+      "autoMatch": true,
+      "batchSize": 10,
+      "columnDetails": [
+        {
+          "column": "actor_first_name",
+          "propertyName": "given name",
+          "propertyID": "P735"
+        }
+      ],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column actor_surname to type Q5"
+  },
+  {
+    "op": "core/recon-discard-judgments",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "actor_surname: score van de beste kandidaat",
+          "expression": "cell.recon.best.score",
+          "columnName": "actor_surname",
+          "from": 90.57000000000001,
+          "to": 100.02,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "list",
+          "name": "actor_surname: oordeel",
+          "expression": "forNonBlank(cell.recon.judgment, v, v, if(isNonBlank(value), \"(unreconciled)\", \"(blank)\"))",
+          "columnName": "actor_surname",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "none",
+                "l": "none"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "actor_surname",
+    "clearData": true,
+    "description": "Discard recon judgments and clear recon data for cells in column actor_surname"
+  },
+  {
+    "op": "core/recon-discard-judgments",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "actor_surname: score van de beste kandidaat",
+          "expression": "cell.recon.best.score",
+          "columnName": "actor_surname",
+          "from": 90.57000000000001,
+          "to": 100.02,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "list",
+          "name": "actor_surname: oordeel",
+          "expression": "forNonBlank(cell.recon.judgment, v, v, if(isNonBlank(value), \"(unreconciled)\", \"(blank)\"))",
+          "columnName": "actor_surname",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "(unreconciled)",
+                "l": "(unreconciled)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "actor_surname",
+    "clearData": true,
+    "description": "Discard recon judgments and clear recon data for cells in column actor_surname"
+  },
+  {
+    "op": "core/recon-clear-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "actor_surname: score van de beste kandidaat",
+          "expression": "cell.recon.best.score",
+          "columnName": "actor_surname",
+          "from": 90.57000000000001,
+          "to": 100.02,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "actor_surname",
+    "similarValue": "Lambrechts",
+    "description": "Clear recon data for cells containing \"Lambrechts\" in column actor_surname"
+  },
+  {
+    "op": "core/recon-discard-judgments",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "actor_surname: judgment",
+          "expression": "forNonBlank(cell.recon.judgment, v, v, if(isNonBlank(value), \"(unreconciled)\", \"(blank)\"))",
+          "columnName": "actor_surname",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "none",
+                "l": "none"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "actor_surname",
+    "clearData": true,
+    "description": "Discard recon judgments and clear recon data for cells in column actor_surname"
+  }
+]
