@@ -1,0 +1,1463 @@
+source,source_status,target,target_status,source_entry
+Bartholomeus Van der Meren,dean,Carel Van den Steen,dean,00001599A
+Bartholomeus Van der Meren,dean,Jan Van Ponberghe,dean,00001599A
+Carel Van den Steen,dean,Jan Van Ponberghe,dean,00001599A
+Abraham Gyoryns,masters sons,Jan Gyoryns,master,00001599C
+Fernand Bert,master,Nicolaes Van Zeunen,apprentice,00001599D
+Denys Van Alsloot,master,Francois De Sainctsaule,apprentice,00001599E
+Francois De Godts,master,Philips Britseels,apprentice,00001599F
+Carel Lambrechts,dean,Hieronymus Van Orley,dean,00001600A
+Carel Lambrechts,dean,Nicolaes Van Rillaert,dean,00001600A
+Hieronymus Van Orley,dean,Nicolaes Van Rillaert,dean,00001600A
+Jacques De Vries,master,Philips Matthys,apprentice,00001600B
+Bartholomeus Van der Meren,master,Christoffel Regybus,apprentice,00001600C
+Carel Lambrechts,master,Willem Van Gent,apprentice,00001600D
+Francois De Streu,apprentice,Peter Noveliers,master,00001600E
+Daniel Ficquaert,apprentice,Jan Gotemans,master,00001600F
+Carel Lambrechts,master,Joris Storm,apprentice,00001600G
+Carel Lambrechts,dean,Hieronymus Van Orley,dean,1601
+Carel Lambrechts,dean,Nicolaes Van Rillaert,dean,1601
+Hieronymus Van Orley,dean,Nicolaes Van Rillaert,dean,1601
+Jacques De Fayter,dean,Jan Van Bronckhorst,dean,00001602A
+Jacques De Fayter,dean,Lenard Wauwermans,dean,00001602A
+Jan Van Bronckhorst,dean,Lenard Wauwermans,dean,00001602A
+Antoon Waelrant,apprentice,Gilbert Van Weenen,master,00001602B
+Nicolaes Mertens,dean,Philips Van Bentem,dean,00001603A
+Cornelis De Bloyer,dean,Nicolaes Mertens,dean,00001603A
+Cornelis De Bloyer,dean,Philips Van Bentem,dean,00001603A
+Gillis Claessens,master,Jan Baptist Grondone,apprentice,00001603B
+Bartholomeus Van der Meren,master,Hans Clunebris,apprentice,00001603C
+Adriaen Van Zinnick,master,Aert Bleter,apprentice,00001604A
+Adriaen Berckay,apprentice,Lenard Wauwermans,master,00001604B
+Denys Van Alsloot,master,Peter Van der Borcht,apprentice,00001604C
+Nicolaes Mertens,dean,Philips Van Bentem,dean,00001604D
+Cornelis De Bloyer,dean,Nicolaes Mertens,dean,00001604D
+Cornelis De Bloyer,dean,Philips Van Bentem,dean,00001604D
+Antoon Sammori,apprentice,Gillis Claessens,master,00001604E
+Francois Tons,dean,Jan De Kemp,dean,1605
+Francois Tons,dean,Willem Van Worms,dean,1605
+Jan De Kemp,dean,Willem Van Worms,dean,1605
+Jacques De Fayter,dean,Nicolaes Van Rillaert,dean,1606
+Adriaen Van Zinnick,dean,Jacques De Fayter,dean,1606
+Adriaen Van Zinnick,dean,Nicolaes Van Rillaert,dean,1606
+Cornelis De Bloyer,dean,Jacques De Fayter,dean,1607
+Cornelis De Bloyer,dean,Jan Mattheus,dean,1607
+Jacques De Fayter,dean,Jan Mattheus,dean,1607
+Carel Van den Steen,dean,Jan Trippaert,dean,1608
+Carel Van den Steen,dean,Jan Van Botbergh,dean,1608
+Jan Trippaert,dean,Jan Van Botbergh,dean,1608
+Jacques De Fayter,dean,Jan Gotemans,dean,1609
+Jacques De Fayter,dean,Wouter Jacobs,dean,1609
+Jan Gotemans,dean,Wouter Jacobs,dean,1609
+Antoon Van der Meren,dean,Hans Mennens,dean,00001610A
+Antoon Van der Meren,dean,Willem Van Worms,dean,00001610A
+Hans Mennens,dean,Willem Van Worms,dean,00001610A
+Carel Herssel,apprentice,David Noveliers,master,00001610B
+Denys Van Alsloot,master,Willem De Moy,apprentice,00001611A
+Jan Van Botbergh,dean,Nicolaes Mertens,dean,00001611B
+Francois Van Schuddeput,dean,Jan Van Botbergh,dean,00001611B
+Francois Van Schuddeput,dean,Nicolaes Mertens,dean,00001611B
+Jan De Kemp,dean,Jan Mattheus,dean,1612
+Augustyn Van der Venne,dean,Jan De Kemp,dean,1612
+Augustyn Van der Venne,dean,Jan Mattheus,dean,1612
+Cornelis De Bloyer,dean,Jan Gotemans,dean,1613
+Carel Van den Steen,dean,Cornelis De Bloyer,dean,1613
+Carel Van den Steen,dean,Jan Gotemans,dean,1613
+Gaspar De Craeyer,dean,Jacques Regaets,dean,1614
+Gaspar De Craeyer,dean,Nicolaes Mertens,dean,1614
+Jacques Regaets,dean,Nicolaes Mertens,dean,1614
+Nicolaes Mertens,dean,Willem Van Worms,dean,1615
+Gaspar De Craeyer,dean,Nicolaes Mertens,dean,1615
+Gaspar De Craeyer,dean,Willem Van Worms,dean,1615
+Adriaen Van Zinnick,dean,Jan Bauwens,dean,1616
+Adriaen Van Zinnick,dean,Jan Trippaert,dean,1616
+Jan Bauwens,dean,Jan Trippaert,dean,1616
+Carel Van den Steen,dean,Jan Mattheus,dean,1617
+Carel Van den Steen,dean,Maerten Heunis,dean,1617
+Jan Mattheus,dean,Maerten Heunis,dean,1617
+Antoon Van der Meren,dean,Michiel De Bordeaux,dean,1618
+Antoon Van der Meren,dean,Wouter Jacobs,dean,1618
+Michiel De Bordeaux,dean,Wouter Jacobs,dean,1618
+Augustyn Van der Venne,dean,Gillis Leyniers,dean,1619
+Augustyn Van der Venne,dean,Nicolaes Mertens,dean,1619
+Gillis Leyniers,dean,Nicolaes Mertens,dean,1619
+Jan Bauwens,dean,Jan Trippaert,dean,1620
+Gerard Van Hoochstadt,dean,Jan Bauwens,dean,1620
+Gerard Van Hoochstadt,dean,Jan Trippaert,dean,1620
+Carel Van den Steen,dean,Jan Mattheus,dean,1621
+Carel Van den Steen,dean,Willem Maheu,dean,1621
+Jan Mattheus,dean,Willem Maheu,dean,1621
+Jan De Paege,dean,Maerten Heunis,dean,1623
+Gaspar Van Schoor,dean,Jan De Paege,dean,1623
+Gaspar Van Schoor,dean,Maerten Heunis,dean,1623
+Dominicus Seghers,dean,Gillis Leyniers,dean,1624
+Dominicus Seghers,dean,Nicolaes Mertens,dean,1624
+Gillis Leyniers,dean,Nicolaes Mertens,dean,1624
+Carel Van den Steen,dean,Francois Van Obberghen,dean,1625
+Carel Van den Steen,dean,Maximiliaen Van der Elst,dean,1625
+Francois Van Obberghen,dean,Maximiliaen Van der Elst,dean,1625
+Antoon Van Opstal,dean,Jan Mattheus,dean,1626
+Antoon Van Opstal,dean,Jan Van Rillaert,dean,1626
+Jan Mattheus,dean,Jan Van Rillaert,dean,1626
+Jan Vaillant,dean,Maerten Heunis,dean,1628
+Cornelis Van Bronckhorst,dean,Jan Vaillant,dean,1628
+Cornelis Van Bronckhorst,dean,Maerten Heunis,dean,1628
+Jan Vaillant,dean,Maerten Heunis,dean,1629
+Cornelis Van Bronckhorst,dean,Jan Vaillant,dean,1629
+Cornelis Van Bronckhorst,dean,Maerten Heunis,dean,1629
+Gerard Van Hoochstadt,dean,Jan De Paege,dean,1630
+Gerard Van Hoochstadt,dean,Wouter Jacobs,dean,1630
+Jan De Paege,dean,Wouter Jacobs,dean,1630
+Jan Mattheus,dean,Jan Van Rillaert,dean,1631
+Jan Claerbodts,dean,Jan Mattheus,dean,1631
+Jan Claerbodts,dean,Jan Van Rillaert,dean,1631
+Antoon Sallaert,dean,Carel Van den Steen,dean,1633
+Antoon Sallaert,dean,Lucas De Kemp,dean,1633
+Carel Van den Steen,dean,Lucas De Kemp,dean,1633
+Jan Claerbodts,dean,Severyn Diertyts,dean,1636
+Jan Bauwens,dean,Jan Claerbodts,dean,1636
+Jan Bauwens,dean,Severyn Diertyts,dean,1636
+Cornelis Van Bronckhorst,dean,Gillis Leyniers,dean,1637
+Cornelis Van Bronckhorst,dean,Philips Van der Elst,dean,1637
+Gillis Leyniers,dean,Philips Van der Elst,dean,1637
+Jan Vaillant,dean,Lucas De Kemp,dean,1638
+Jan Vaillant,dean,Maximiliaen Van der Elst,dean,1638
+Lucas De Kemp,dean,Maximiliaen Van der Elst,dean,1638
+Antoon Van Opstal,dean,Carel Van den Steen,dean,1639
+Antoon Van Opstal,dean,Peter Van der Borcht,dean,1639
+Carel Van den Steen,dean,Peter Van der Borcht,dean,1639
+Gillis Van Blayenbergh,dean,Jan Claerbodts,dean,1640
+Engel Van den Bosch,dean,Gillis Van Blayenbergh,dean,1640
+Engel Van den Bosch,dean,Jan Claerbodts,dean,1640
+Gerard Van Hoochstadt,dean,Jan Bauwens,dean,1641
+Gerard Van Hoochstadt,dean,Peter Coppens,dean,1641
+Jan Bauwens,dean,Peter Coppens,dean,1641
+Gerard Van Hoochstadt,dean,Jan Bauwens,dean,1642
+Gerard Van Hoochstadt,dean,Peter Coppens,dean,1642
+Jan Bauwens,dean,Peter Coppens,dean,1642
+Severyn Diertyts,dean,Willem Van Graenenbroeck,dean,1643
+Leo Van Heil,dean,Severyn Diertyts,dean,1643
+Leo Van Heil,dean,Willem Van Graenenbroeck,dean,1643
+Jan Noveliers,dean,Jan Van Rillaert,dean,1644
+Jan Noveliers,dean,Philips Van der Elst,dean,1644
+Jan Van Rillaert,dean,Philips Van der Elst,dean,1644
+Jan Noveliers,dean,Jan Van Rillaert,dean,1645
+Jan Noveliers,dean,Philips Van der Elst,dean,1645
+Jan Van Rillaert,dean,Philips Van der Elst,dean,1645
+Antoon Sallaert,dean,Antoon Van den Bossche,dean,1646
+Antoon Sallaert,dean,Jacques Nyts,dean,1646
+Antoon Van den Bossche,dean,Jacques Nyts,dean,1646
+Antoon Sallaert,dean,Antoon Van den Bossche,dean,1647
+Antoon Sallaert,dean,Jacques Nyts,dean,1647
+Antoon Van den Bossche,dean,Jacques Nyts,dean,1647
+Albert Fierens,apprentice,Peter [b] Van Gindertaelen,master,00001648A
+Gillis Leyniers,dean,Jacob Godsvriendt,dean,00001648B
+Daniel Van Heil,dean,Gillis Leyniers,dean,00001648B
+Daniel Van Heil,dean,Jacob Godsvriendt,dean,00001648B
+Jan Claerbodts,dean,Jan Van Velthoven,dean,1649
+Engel Van den Bosch,dean,Jan Claerbodts,dean,1649
+Engel Van den Bosch,dean,Jan Van Velthoven,dean,1649
+Jan Noveliers,dean,Jan Schoreels,dean,1650
+Jan Noveliers,dean,Michiel Van Eeverenbroot,dean,1650
+Jan Schoreels,dean,Michiel Van Eeverenbroot,dean,1650
+Jan Noveliers,dean,Jan Schoreels,dean,1651
+Jan Noveliers,dean,Michiel Van Eeverenbroot,dean,1651
+Jan Schoreels,dean,Michiel Van Eeverenbroot,dean,1651
+Cornelis Kerckjans,dean,Jan Jacobs,dean,00001652A
+Cornelis Kerckjans,dean,Severyn Diertyts,dean,00001652A
+Jan Jacobs,dean,Severyn Diertyts,dean,00001652A
+Amatis Billaert,apprentice,Michiel Van Eeverenbroot,master,00001652B
+Andries De Brauwer,apprentice,Willem Van Schoor,master,00001653A
+Daniel Van Heil,master,Peter Hellinck,apprentice,00001653B
+Hieronymus De Vadder,apprentice,Peter [b] Van Gindertaelen,master,00001653C
+Gerard Meysens,apprentice,Jan Meysens,master,00001653D
+Gerard Meysens,apprentice,Peter Meerts,master,00001653D
+Jan Meysens,master,Peter Meerts,master,00001653D
+Joos Van Craesbeeck,master,Lucas Viters,apprentice,00001653E
+Charles Wautier,master,Thomas Monnorino,apprentice,00001653F
+Ignatius Van der Stock,apprentice,Louis De Vadder,master,00001653G
+Louis Reysels,apprentice,Steven Stekeldoore,master,00001653H
+Jan Baptist Sallaert,master,Peter La Court,apprentice,00001653I
+Jan Denens,apprentice,Peter Meerts,master,00001653J
+Francisco Martini,master,Louis Hernese Janvier,apprentice,00001653K
+Jacob Rubens,apprentice,Peter Snayers,master,00001653L
+Willem De Gyn,apprentice,Willem Van Schoor,master,00001653M
+Alexander Van Avont,master,Antoon Stroobant,apprentice,00001653N
+Antoon Van Opstal,master,Stefano Gillis,apprentice,00001653O
+ Leyniers,apprentice,Jan Jacobs,master,00001653P
+Jan Baptist Sallaert,dean,Jan Van Rillaert,dean,00001653Q
+Daniel Leyniers,dean,Jan Van Rillaert,dean,00001653Q
+Daniel Leyniers,dean,Jan Baptist Sallaert,dean,00001653Q
+Hendrick Huysmans,apprentice,Jan Baptist Sallaert,master,00001653R
+Daniel Van Heil,dean,Jacob Godsvriendt,dean,1654
+Christoffel Goffin,dean,Daniel Van Heil,dean,1654
+Christoffel Goffin,dean,Jacob Godsvriendt,dean,1654
+Jacques Antoon De Meester,dean,Jacques Nyts,dean,1655
+Antoon Van den Bossche,dean,Jacques Nyts,dean,1655
+Antoon Van den Bossche,dean,Jacques Antoon De Meester,dean,1655
+Jacques Nyts,dean,Jan Claerbodts,dean,1656
+Jacques Antoon De Meester,dean,Jacques Nyts,dean,1656
+Jacques Antoon De Meester,dean,Jan Claerbodts,dean,1656
+Antoon Van den Bossche,dean,Jacques Nyts,dean,1656
+Antoon Van den Bossche,dean,Jacques Antoon De Meester,dean,1656
+Antoon Van den Bossche,dean,Jan Claerbodts,dean,1656
+Jan Baptist Sallaert,dean,Jan Van Opstal,dean,1657
+Jan Baptist Sallaert,dean,Matthys Van den Bosch,dean,1657
+Jan Van Opstal,dean,Matthys Van den Bosch,dean,1657
+Jan Baptist Sallaert,dean,Jan Van Opstal,dean,1658
+Jan Baptist Sallaert,dean,Matthys Van den Bosch,dean,1658
+Jan Van Opstal,dean,Matthys Van den Bosch,dean,1658
+Daniel Leyniers,dean,Peter [b] Van Gindertaelen,dean,1659
+Carel De Swert,dean,Daniel Leyniers,dean,1659
+Carel De Swert,dean,Peter [b] Van Gindertaelen,dean,1659
+Jan Arys,dean,Jan Claerbodts,dean,1660
+Engel Van den Bosch,dean,Jan Arys,dean,1660
+Engel Van den Bosch,dean,Jan Claerbodts,dean,1660
+Cornelis Kerckjans,dean,Hendrick Van Bronckhorst,dean,00001661A
+Cornelis Kerckjans,dean,Jan Cortois,dean,00001661A
+Hendrick Van Bronckhorst,dean,Jan Cortois,dean,00001661A
+Francois Van Elewyck,apprentice,Peter Van der Borcht,master,00001661B
+Coryn Haccadron,apprentice,Willem Piscador,master,00001661D
+Cornelis Kerckjans,dean,Hendrick Van Bronckhorst,dean,1662
+Cornelis Kerckjans,dean,Jan Cortois,dean,1662
+Hendrick Van Bronckhorst,dean,Jan Cortois,dean,1662
+Gillis Van Tilborgh,dean,Jan Raes,dean,00001663A
+Gillis Van Tilborgh,dean,Matthys Van den Steen,dean,00001663A
+Jan Raes,dean,Matthys Van den Steen,dean,00001663A
+Jan [b] Jacobs,master,Peter Van der Maelen,apprentice,00001663B
+Francois Volders,apprentice,Lucas Achtschellinck,master,00001664A
+Francois Le Pies,apprentice,Gillis Van Tilborgh,master,00001664B
+Francois Ysenbaut,dean,Jan Gillis,dean,00001665A
+Francois Ysenbaut,dean,Melchior Sallaert,dean,00001665A
+Jan Gillis,dean,Melchior Sallaert,dean,00001665A
+Jan Cortois,dean,Peter Van den Winckel,dean,00001667A
+Hendrick Van Bronckhorst,dean,Jan Cortois,dean,00001667A
+Hendrick Van Bronckhorst,dean,Peter Van den Winckel,dean,00001667A
+Jan Cortois,dean,Jan [b] Raes,dean,1668
+Jan Cortois,dean,Peter Van den Winckel,dean,1668
+Jan [b] Raes,dean,Peter Van den Winckel,dean,1668
+Hendrick Van Bronckhorst,dean,Jan Cortois,dean,1668
+Hendrick Van Bronckhorst,dean,Jan [b] Raes,dean,1668
+Hendrick Van Bronckhorst,dean,Peter Van den Winckel,dean,1668
+Daniel Vaillant,dean,Willem Piscador,dean,1669
+Artus De Kemp,dean,Daniel Vaillant,dean,1669
+Artus De Kemp,dean,Willem Piscador,dean,1669
+Christoffel Goffin,dean,Jan Gillis,dean,00001670A
+Christoffel Goffin,dean,Jan [b] Raes,dean,00001670A
+Jan Gillis,dean,Jan [b] Raes,dean,00001670A
+Francois Coppens,master,Judocus De Ridder,apprentice,00001670B
+Bartholomeus Cortois,apprentice,Hendrick Van den Steen,master,00001670C
+Antoon Van Noye,apprentice,Willem Piscador,master,00001670D
+Jacob Carlier,apprentice,Jan Gillis,master,00001670E
+Artus De Kemp,master,Jan Baptist Huygens,apprentice,00001670F
+Christoffel Goffin,dean,Hendrick Van Bronckhorst,dean,00001671A
+Christoffel Goffin,dean,Jan Gillis,dean,00001671A
+Christoffel Goffin,dean,Jan [b] Raes,dean,00001671A
+Jan Gillis,dean,Jan [b] Raes,dean,00001671A
+Hendrick Van Bronckhorst,dean,Jan Gillis,dean,00001671A
+Hendrick Van Bronckhorst,dean,Jan [b] Raes,dean,00001671A
+Francois Ysenbaut,master,Hendrick Libert,apprentice,00001671B
+Melchior Sallaert,dean,Michiel Van Bronckhorst,dean,1672
+Jan [b] Raes,dean,Melchior Sallaert,dean,1672
+Jan [b] Raes,dean,Michiel Van Bronckhorst,dean,1672
+Carel De Swert,dean,Peter Cortois,dean,00001673A
+Carel De Swert,dean,Peter Van den Winckel,dean,00001673A
+Peter Cortois,dean,Peter Van den Winckel,dean,00001673A
+Jan Van Avont,apprentice,Peter Seghers,master,00001673C
+David Teniers,master,Gelaude Daure Cour,apprentice,00001675A
+Carel De Swert,dean,Peter Cortois,dean,00001675B
+Carel De Swert,dean,Peter Van den Winckel,dean,00001675B
+Peter Cortois,dean,Peter Van den Winckel,dean,00001675B
+Jan [b] Raes,dean,Peter Hellinck,dean,1676
+Francois Coppens,dean,Jan [b] Raes,dean,1676
+Francois Coppens,dean,Peter Hellinck,dean,1676
+Jan [b] Raes,dean,Peter Hellinck,dean,00001677A
+Francois Coppens,dean,Jan [b] Raes,dean,00001677A
+Francois Coppens,dean,Peter Hellinck,dean,00001677A
+Cornelis Coppens,apprentice,Francois Coppens,dean,00001677B
+Cornelis Coppens,apprentice,Francois Coppens,master,00001677B
+Jacob Nys,apprentice,Reynold Cortkens,master,00001677C
+Francois Ysenbaut,master,Peter De Paepe,apprentice,00001678A
+Michiel Van Bronckhorst,dean,Peter Van Orley,dean,00001678B
+Francois Ysenbaut,dean,Michiel Van Bronckhorst,dean,00001678B
+Francois Ysenbaut,dean,Peter Van Orley,dean,00001678B
+Francois [b] Coppens,dean,Peter Cortois,dean,00001679A
+Francois [b] Coppens,dean,Peter Hellinck,dean,00001679A
+Peter Cortois,dean,Peter Hellinck,dean,00001679A
+Matthys Van den Bosch,master,Peter De Donderberghen,apprentice,00001679B
+Matthys Van den Bosch,dean,Peter De Donderberghen,apprentice,00001679B
+Hendrick Van Bronckhorst,master,Peter Pepersack,apprentice,00001679D
+Jan [b] Raes,dean,Peter Hellinck,dean,00001680A
+Francois [b] Coppens,dean,Jan [b] Raes,dean,00001680A
+Francois [b] Coppens,dean,Peter Hellinck,dean,00001680A
+Antoon Goosens,apprentice,Jan Schoreels,dean,00001680D
+Antoon Goosens,apprentice,Jan Schoreels,master,00001680D
+Francois Berbiers,apprentice,Michiel Coolemans,master,00001680E
+Hendrick Van Bronckhorst,master,Peter Pepersack,apprentice,00001680F
+Hendrick Van Bronckhorst,dean,Peter Pepersack,apprentice,00001680F
+Maerten De Kerck,master,Reynier Vrientschap,apprentice,00001680G
+Jan Odeyn,master,Michiel Lefebure,apprentice,00001680H
+Jan Baptist De Weerdt,apprentice,Judocus Van Dormael,master,00001680I
+Willem Piscador,dean,Willem Van Rillaert,dean,00001681D
+Erasmus Crock,dean,Willem Piscador,dean,00001681D
+Erasmus Crock,dean,Willem Van Rillaert,dean,00001681D
+Jan Baptist Crick,apprentice,Judocus Van Dormael,master,00001682A
+Adriaen Francois Baudewyns,dean,Francois Ysenbaut,dean,00001682B
+Adriaen Francois Baudewyns,dean,Peter De Backer,dean,00001682B
+Francois Ysenbaut,dean,Peter De Backer,dean,00001682B
+Erasmus Crock,dean,Jan Baptist Timmermans,dean,00001683C
+Erasmus Crock,dean,Theodoor Van Heil,dean,00001683C
+Jan Baptist Timmermans,dean,Theodoor Van Heil,dean,00001683C
+Antoon Krick,apprentice,Artus De Kemp,master,00001683D
+Antoon Krick,apprentice,Laurys Van Rossum,master,00001683D
+Artus De Kemp,master,Laurys Van Rossum,master,00001683D
+Jan Baptist Van Heil,master,Leo Van Kerckhove,apprentice,00001684A
+Erasmus Crock,dean,Jan Baptist Timmermans,dean,00001684D
+Erasmus Crock,dean,Theodoor Van Heil,dean,00001684D
+Jan Baptist Timmermans,dean,Theodoor Van Heil,dean,00001684D
+Jan [b] Raes,dean,Michiel Allaert,dean,00001685C
+Christiaen Crocx,dean,Jan [b] Raes,dean,00001685C
+Christiaen Crocx,dean,Michiel Allaert,dean,00001685C
+Andries Van der Plancken,dean,Francois Ysenbaut,dean,00001686A
+Andries Van der Plancken,dean,Laurys Van Rossum,dean,00001686A
+Francois Ysenbaut,dean,Laurys Van Rossum,dean,00001686A
+Jacob Van der Heyden,master,Lieven Illewardus Van Achter,apprentice,00001686B
+Charles Wautier,master,Gillis Wauters,apprentice,00001686C
+Antoon De Vorster,apprentice,Peter Leermans,master,00001686D
+ Cotina,apprentice,Maerten De la Court,master,00001686E
+ Van der Borcht,apprentice,Lambert De Hondt,master,00001686F
+Christiaen Crocx,dean,Judocus Van Dormael,dean,00001687A
+Christiaen Crocx,dean,Lucas Achtschellinck,dean,00001687A
+Judocus Van Dormael,dean,Lucas Achtschellinck,dean,00001687A
+Carel De Swert,dean,Judocus Van Overstaeten,apprentice,00001687B
+Carel De Swert,master,Judocus Van Overstaeten,apprentice,00001687B
+Erasmus Crock,master,Jacob De Rock,apprentice,00001688A
+Erasmus Crock,dean,Jacob De Rock,apprentice,00001688A
+Antoon De Veuster,apprentice,Peter Leermans,master,00001688B
+Adriaen Frankien,apprentice,Peter Herrebos,master,00001688C
+Adriaen Thielemans,apprentice,Peter Lambillot,master,00001688D
+Jan [b] Raes,dean,Peter Van Orley,dean,00001688E
+Erasmus Crock,dean,Jan [b] Raes,dean,00001688E
+Erasmus Crock,dean,Peter Van Orley,dean,00001688E
+Carolus Van Baeckegom,master,Laurys Casier,apprentice,00001688F
+Carel Faeghe,apprentice,Jan Baptist Meskens,master,00001689B
+Francois De Coster,apprentice,Francois Reps,master,00001689C
+Lucas Achtschellinck,master,[anonymous] ,apprentice,00001689D
+Francois Ysenbaut,dean,Joris Ringheler,dean,00001689E
+Francois Ysenbaut,dean,Thomas Pins,dean,00001689E
+Joris Ringheler,dean,Thomas Pins,dean,00001689E
+Hieronymus Ringheler,master,Willem Asselman,apprentice,00001689G
+Francois Reps,dean,Jan Baptist Timmermans,dean,1690
+Egidius Jan Schoreels,dean,Francois Reps,dean,1690
+Egidius Jan Schoreels,dean,Jan Baptist Timmermans,dean,1690
+Francois Ysenbaut,dean,Hieronymus Ringheler,dean,00001691A
+Carolus Van Baeckegom,dean,Francois Ysenbaut,dean,00001691A
+Carolus Van Baeckegom,dean,Hieronymus Ringheler,dean,00001691A
+Jan [b] Raes,dean,Matthys Schoevaert,dean,00001692B
+Jan [b] Raes,dean,Raymandus Ringheler,dean,00001692B
+Matthys Schoevaert,dean,Raymandus Ringheler,dean,00001692B
+Jan [b] Raes,dean,Matthys Schoevaert,dean,1693
+Jan [b] Raes,dean,Raymandus Ringheler,dean,1693
+Matthys Schoevaert,dean,Raymandus Ringheler,dean,1693
+Francois Ysenbaut,dean,Hieronymus Ringheler,dean,00001694A
+Francois Ysenbaut,dean,Quireyn Van Nuvel,dean,00001694A
+Hieronymus Ringheler,dean,Quireyn Van Nuvel,dean,00001694A
+Jacob Van der Heyden,master,[anonymous] ,apprentice,00001694F
+Jan Vaele,apprentice,Victor Janssens,master,00001694G
+Hieronymus Ringheler,dean,Jan Baptist Maeseler,dean,00001695A
+Hieronymus Ringheler,dean,Quireyn Van Nuvel,dean,00001695A
+Jan Baptist Maeseler,dean,Quireyn Van Nuvel,dean,00001695A
+Francois Ysenbaut,dean,Hieronymus Ringheler,dean,00001695A
+Francois Ysenbaut,dean,Jan Baptist Maeseler,dean,00001695A
+Francois Ysenbaut,dean,Quireyn Van Nuvel,dean,00001695A
+Dionysus Van Waeyenbergh,master,Egidius Waeyenborch,apprentice,00001695H
+Ferdinand Colyns,master,Johannes Joseph Rottenburch,apprentice,00001695I
+Bartholomeus Jacobus Van der Hecht,dean,Hendrick Cortois,dean,00001696A
+Bartholomeus Jacobus Van der Hecht,dean,Matthys Schoevaert,dean,00001696A
+Hendrick Cortois,dean,Matthys Schoevaert,dean,00001696A
+Peter Van Orley,master,Willem Blommaert,apprentice,00001696B
+Jan Baptist Crick,dean,Quireyn Van Nuvel,dean,1697
+Francois Berbiers,dean,Jan Baptist Crick,dean,1697
+Francois Berbiers,dean,Quireyn Van Nuvel,dean,1697
+Carel De Swert,master,Florentin Serhuyghens,apprentice,00001698D
+Carel De Swert,dean,Florentin Serhuyghens,apprentice,00001698D
+Jan Van den Bosch,apprentice,Michiel Coolemans,master,00001698E
+Hendrick Van Brouckhorst,master,Peter Biddigir,apprentice,00001698F
+Jan Vaele,apprentice,Victor Janssens,master,00001698G
+Francois De Bargas,dean,Jan Baptist Noldens,dean,00001698I
+Francois De Bargas,dean,Thomas Pins,dean,00001698I
+Jan Baptist Noldens,dean,Thomas Pins,dean,00001698I
+Hendrick Van Wel,apprentice,Jan Van Daele,master,00001698T
+Carolus Van Baeckegom,master,Peter Jacobs,apprentice,00001698U
+Francois Berbiers,dean,Jan Baptist Crick,dean,00001699A
+Francois Berbiers,dean,Victor Janssens,dean,00001699A
+Jan Baptist Crick,dean,Victor Janssens,dean,00001699A
+Adriaen De Caron,master,Lucas Storck,apprentice,00001699L
+Francois Tilborgh,master,Judocus Groenins,apprentice,00001699M
+Ferdinand Colyns,master,Hutoun Wermert,apprentice,00001699N
+ Backer,master,Gaspar De Clerck,apprentice,00001699O
+Jan Baptist Maeseler,dean,Jan Van Daele,dean,00001700A
+Hendrick Van Brouckhorst,dean,Jan Van Daele,dean,00001700A
+Hendrick Van Brouckhorst,dean,Jan Baptist Maeseler,dean,00001700A
+Jan Van der Heyden,apprentice,Peter Van Orley,master,00001700H
+Jan Baptist Maeseler,dean,Jan Van Daele,dean,00001701A
+Hendrick Van Brouckhorst,dean,Jan Van Daele,dean,00001701A
+Hendrick Van Brouckhorst,dean,Jan Baptist Maeseler,dean,00001701A
+Judocus Lamberto,master,Lucas Stock,apprentice,00001701G
+Francois De Schyn,apprentice,Michiel Coolemans,master,00001701H
+Carel De Wit,apprentice,Michiel Van Cutsem,master,00001701I
+ Hermans,apprentice,Jan Baptist Van den Broeck,master,00001701J
+ Snaghels,apprentice,Ferdinand Colyns,master,00001701K
+Erasmus Crock,master,Matthys Coint,apprentice,00001701L
+Ludovicus Schoreels,dean,Philips Mille,dean,00001702A
+Francois De Bargas,dean,Hendrick Heretibaudt,dean,00001702A
+Francois De Bargas,dean,Ludovicus Schoreels,dean,00001702A
+Francois De Bargas,dean,Philips Mille,dean,00001702A
+Hendrick Heretibaudt,dean,Ludovicus Schoreels,dean,00001702A
+Hendrick Heretibaudt,dean,Philips Mille,dean,00001702A
+Catharina Van Stichel,master,Elisabeth Celdrin,master,00001702H
+Ludovicus Schoreels,master,Michiel De Leeuw,apprentice,00001702I
+Bartholomeus Jacobus Van der Hecht,master,Joseph Hellebosch,apprentice,00001702J
+Francois De Bargas,dean,Ludovicus Schoreels,dean,00001703A
+Francois De Bargas,dean,Philips Mille,dean,00001703A
+Ludovicus Schoreels,dean,Philips Mille,dean,00001703A
+Adriaen Pauwels,apprentice,Peter Van Orley,master,00001703E
+Carel Judocus Raes,dean,Christiaen Crocx,dean,00001704A
+Carel Judocus Raes,dean,Hendrick Van den Houten,dean,00001704A
+Christiaen Crocx,dean,Hendrick Van den Houten,dean,00001704A
+Adriaen De Caron,master,Gerard Bauwens,apprentice,00001704D
+Carel Judocus Raes,dean,Christiaen Crocx,dean,00001705A
+Carel Judocus Raes,dean,Hendrick Van den Houten,dean,00001705A
+Christiaen Crocx,dean,Hendrick Van den Houten,dean,00001705A
+Carel Judocus Raes,master,Simon De Heucht,apprentice,00001705C
+Jan Van der Belen,apprentice,Michiel Van Cutsem,master,00001705D
+Carel Judocus Raes,dean,Christiaen Crocx,dean,00001706A
+Carel Judocus Raes,dean,Hendrick Van den Houten,dean,00001706A
+Christiaen Crocx,dean,Hendrick Van den Houten,dean,00001706A
+Jacques Van Rome,master,Joos Schutyser,apprentice,11600
+Joos Steenarst,apprentice,Willem Van Worms,master,11602
+Jan Van den Molen,apprentice,Willem Piscador,master,11681
+Americus De Vreese,apprentice,Antoon Van Schelle,master,61602
+Adriaen Van Zinnick,master,Joos Rintvelt,apprentice,61609
+Jacques Van Worms,master,Joris Arys,apprentice,71615
+Andries Van den Hoecke,apprentice,Thomas Pins,master,101690
+Everard Rurinckx,apprentice,Peter Noveliers,master,1021611
+Francois Tons,master,Philips De Backer,apprentice,1021614
+Francois Tons,master,Philips De Backer,master,1021614
+Hendrick De Bontridder,apprentice,Nicolaes Mertens,master,1031616
+Cornelis Gillis,master,Jan Gillis,masters sons,01031651A
+Cornelis Gillis,master,Peter Gillis,masters sons,01031651B
+Engel Van den Bosch,master,Francois Coppens,master,01031651C
+Gerard Van Hoochstadt,master,Laurys De Wemer,master,01031651D
+Erasmus Crock,master,Lenard Nagels,master,01031651E
+Jacques Van den Porten,apprentice,Michiel De Prins,master,1031664
+Francisco Brockin,apprentice,Gerard Van Hoochstadt,master,01051650A
+Jan Vranckx,apprentice,Lambert De Prins,master,01051650B
+Jan Van Velthoven,master,Peter Hals,apprentice,01061613A
+Antoon Van den Bossche,apprentice,Cornelis Gillis,master,01061613B
+Jacques Roddaert,master,Jan De Raet,apprentice,1061617
+Jacques Roddaert,master,Jan De Raet,master,1061617
+David Ringheler,master,Willem Van der Elst,apprentice,1071621
+Cornelis Van Empel,apprentice,Jacques Artois,master,1071643
+David Sollay,apprentice,Jan Van Velthoven,master,1081622
+Francois Ceneville,apprentice,Jan Meysens,master,01081637A
+Jacob De Backer,master,Joos Van den Tempel,apprentice,01081637B
+Jacob De Backer,master,Johan Baptist Bersier,apprentice,1081647
+Gerard Van Hoochstadt,master,Lambert Van der Biest,apprentice,1091627
+Carel Alexander Van Geel,master,Jan Cortvrindt,apprentice,1091662
+Carel Alexander Van Geel,master,Jan Cortvrindt,master,1091662
+Brixius Van der Elst,apprentice,Jan Collaert,master,1101609
+Hendrick De Vries,master,Willem Van Diest,apprentice,1101615
+Jan [b] Raes,master,Peter De Maylder,apprentice,1101666
+Carolus Van Baeckegom,apprentice,Thomas Pins,master,1101676
+Jan Van den Bemde,apprentice,Jan [b] Raes,dean,1101680
+Jan Van den Bemde,apprentice,Jan [b] Raes,master,1101680
+Francois Ysenbaut,master,Jan Baptist Maeseler,apprentice,1101681
+Hendrick Van Bronckhorst,master,Jan Timmermans,apprentice,1111674
+Jan De Prins,apprentice,Joris Ringheler,master,2011663
+Jan Van Beckberghe,master,Peter Van Beckberghe,masters sons,2051628
+Christoffel Merlin,master,Peter De Veuster,master,02051647A
+Jacob Van Waeyenbergh,apprentice,Lambert De Hondt,master,2051682
+Adriaen Van Zinnick,master,Jacob Van Grimberghen,apprentice,2061625
+Adriaen Van Zinnick,master,Jacob Van Grimberghen,master,2061625
+Lucas Achtschellinck,master,Simon Bijean,apprentice,2061676
+Carel Lottemberg,apprentice,Louis Van Schoor,master,2071677
+Michiel Coolemans,master,Rombout De Morge,apprentice,2071686
+Godfried Rogaerts,master,Philips Van der Vriesen,apprentice,2081612
+Lanceloot Volders,master,Victor Janssens,apprentice,2091675
+Lanceloot Lefebure,master,Peter Soetemans,apprentice,03021629A
+Francois Ysenbaut,master,Philips Mille,apprentice,3031675
+Jacques Artois,master,Jan Mertens,master,3051634
+Jacques Artois,apprentice,Jan Mertens,master,3051634
+Joos Hermans,apprentice,Peter De Rauw,master,3051675
+Bernard Dierdone,master,Christoffel Pauwens,apprentice,3061617
+Jan De Smedt,apprentice,Leo Van Heil,master,3071629
+Francois De Bacquelerot,apprentice,Jan De Paege,master,3071641
+Jan Van Daele,apprentice,Richard Van Orley,master,3071645
+ Horick,apprentice,Jacob Van der Heyden,master,03071690C
+Antoon Sallaert,master,Melchior Sallaert,apprentice,3101631
+Antoon Sallaert,master,Melchior Sallaert,master,3101631
+Jan Baptist Van Heil,master,Jan Marssche,apprentice,3101651
+Adam Francois Van der Meulen,master,Thomas Pins,apprentice,3101661
+Jan Van Velthoven,master,[son of] Maerten De Vos,master,3111610
+Bernard Dierdone,master,Jan Mutet,apprentice,3111614
+Willem Marquaet,apprentice,Wolfaert Wiedemans,master,03111643A
+Jannes Van der Put,apprentice,Steven Stekeldoore,master,03111643B
+Jan Kelders,apprentice,Steven Stekeldoore,master,3111666
+Jan Goddyn,apprentice,Willem Lenaerts,master,3111668
+Floris Van Bossuyt,apprentice,Francois De Backer,master,4011612
+Joris Donckerwolck,master,Severyn Diertyts,apprentice,4011624
+Joris Donckerwolck,master,Severyn Diertyts,master,4011624
+Jan Baptist De Carrion,apprentice,Philips Van der Elst,master,4011647
+Peter Noveliers,master,Quinten Symons,apprentice,04021614A
+Peter Noveliers,master,Quinten Symons,master,04021614A
+Carel Herssel,master,David Noveliers,master,04021614B
+Carel Herssel,apprentice,David Noveliers,master,04021614B
+Gillis Claessens,master,Jacob Verberghen,apprentice,04021614C
+Gillis Claessens,master,Jacob Verberghen,master,04021614C
+Jan Noveliers,master,Peter Noveliers,master,04021614D
+Jan Noveliers,apprentice,Peter Noveliers,master,04021614D
+Hans Besoete,master,Jan Baptist Grondone,master,04021614E
+Hans Besoete,apprentice,Jan Baptist Grondone,master,04021614E
+Peter Noveliers,master,Salomon Noveliers,masters sons,04021614F
+Gaspar De Craeyer,master,Gaspar Picron,apprentice,4021624
+Jan Waelens,apprentice,Peter Van der Borcht,master,04021631A
+Francois Mossens,master,Jacques Domingo,apprentice,04021631B
+Francois Van Volxem,apprentice,Gillis Claessens,master,4041609
+Bernard Van Rampelbergh,apprentice,Michiel De Haese,master,4051614
+Jan Bouillon,master,Peter Doms,apprentice,4051623
+Johan Remy Christoffel,apprentice,Willem Van Yperseel,master,4051628
+Antoon Sallaert,master,Gelaude Fige,apprentice,4051650
+Jan Caffmeyer,apprentice,Michiel Coolemans,master,4051667
+Lucas Achtschellinck,master,Peter Hendrickx,apprentice,04051681B
+David Noveliers,master,Jan De Vos,apprentice,4061616
+David Noveliers,master,Jan De Vos,master,4061616
+Alexander Bert,master,Jan Baptist Piscador,apprentice,4061620
+Gaspar Van Noye,apprentice,Peter Van Orley,master,4081693
+Jan De Kemp,master,Lieven Van den Bosch,apprentice,4091614
+Johannes Keelpachter,apprentice,[widow of] Roeland Heussewiel,master,4091624
+George Van Lemt,apprentice,Hans Vooremans,master,4111603
+Joris Ringheler,master,Peter De Rauw,apprentice,4111669
+Joris Ringheler,master,Peter De Rauw,master,4111669
+Vincent Le Reimenants,master,Willem Van Graenenbroeck,apprentice,4121610
+Vincent Le Reimenants,master,Willem Van Graenenbroeck,master,4121610
+Jan Baptist Maes,apprentice,Jan [b] Raes,master,5011676
+Hendrick Van den Steen,master,Jan Baptist Maes,apprentice,5011676
+Hendrick Van den Steen,master,Jan [b] Raes,master,5011676
+Jacob Van der Heyden,master,Joseph Laboureur,apprentice,5011691
+Antoon Steps,apprentice,Peter Coppens,master,05021629A
+Abraham Sdrooghen,apprentice,Jan Van Waelant,master,05021629B
+Jacques Faydherbe,master,Louis Catalyn,apprentice,05021629C
+Arnold Van Overstraeten,apprentice,Peter Busset,master,5021630
+Jan Lenaerts,apprentice,Joos Van Craesbeeck,master,5021653
+Daniel Vaillant,masters sons,Gerard Van Hoochstadt,master,05031651A
+Daniel Vaillant,masters sons,Jan Vaillant,master,05031651A
+Gerard Van Hoochstadt,master,Jan Vaillant,master,05031651A
+Gillis Claessens,master,Jan Baptist Claessens,masters sons,05031651B
+Engel Van den Bosch,master,Joos Van den Bossche,masters sons,05031651C
+Daniel Van Heil,master,Louis De Vleeshouwer,master,05031651E
+Adam Francois Van der Meulen,master,Peter Snayers,master,05031651F
+Adam Francois Van der Meulen,apprentice,Peter Snayers,master,05031651F
+Joos Baptist Willeman,master,Philips Machobeus,master,5041606
+Claude Rosel,apprentice,Michiel Van Werckhoven,master,05041619A
+Gerard Van Hoochstadt,master,Germeyn Somers,apprentice,05041619B
+Jan Baptist De Coninck,apprentice,Servaes Coels,master,5041623
+Joris Donckerwolck,master,Maximiliaen Van der Elst,apprentice,5051620
+Joris Donckerwolck,master,Maximiliaen Van der Elst,master,5051620
+Andries Broeckmans,apprentice,Thomas Pins,master,5051678
+Bastiaen Van Assche,apprentice,Elias Geeraerts,master,5061620
+Lucas De Kemp,master,Peter Cempen,apprentice,5061626
+Jacob Van den Dries,apprentice,Jan Van Daele,master,5061640
+Antoon Van Opstal,master,Thomas Cortinck,apprentice,5061652
+Gillis Van Tilborgh,master,Jan Van der Bruggen,apprentice,5061662
+Jan Van Velthoven,master,Peter De Clerck,apprentice,5071621
+Elias Geeraerts,master,Jan Geeraerts,masters sons,05071640A
+Francois Raventarie,apprentice,Jan Van Bronckhorst,master,05071640B
+Daniel Van Heil,masters sons,Leo Van Heil,master,05081627B
+Abraham Van Avont,apprentice,Nicolaes Artois,master,05081648A
+Adriaen Van den Broeck,master,Gaspar De Craeyer,master,05081648B
+Adriaen Goerries,apprentice,Jan Bauwens,master,05091616A
+Jan Trippaert,master,Raphael Van Arssen,apprentice,05091616B
+Jan Bauwens,master,Willem Geeraerts,apprentice,5101611
+Francois Tons,master,Hans Goddaert,apprentice,5111602
+Erasmus Lysmont,apprentice,Severyn De Kegel,master,05111620A
+David Noveliers,master,Nicolaes Bertreyn,apprentice,06011640A
+David Noveliers,master,Nicolaes Bertreyn,master,06011640A
+Jacques Faydherbe,master,Jan Van Daele,apprentice,06011640B
+Jacques Faydherbe,master,Jan Van Daele,master,06011640B
+Jacques Van Worms,masters sons,Willem Van Worms,master,06021610A
+Hendrick Rota,apprentice,Michiel Geeraerts,master,06021610B
+Francois Thierlinckx,apprentice,Lanceloot Volders,master,6021663
+Francois Van der Borcht,apprentice,Lenard Wauwermans,master,6041620
+Cornelis Gillis,apprentice,Jacques Roddaert,master,06051603B
+Carel De Kemp,master,Nicolaes Crick,apprentice,6051616
+Hendrick Kegelaer,apprentice,Jan Mattheus,master,6051622
+Carel Ignatius Van Eefbergh,apprentice,Peter [b] Van Gindertaelen,master,6051662
+Jan Van Bronckhorst,master,Michiel Benoot,apprentice,6061606
+Lenard Wauwermans,master,Severyn De Kegel,apprentice,06061613A
+Huybrecht De Vadder,apprentice,Philips De Vadder,master,06061613B
+Francois De Clerck,apprentice,Jan De Moralis,master,6061619
+Nicolaes Van den Hecke,master,Willem Van Wede,apprentice,6061623
+Nicolaes Van den Hecke,master,Willem Van Wede,master,6061623
+Ambrosius ,apprentice,Charles Wautier,master,06071661A
+Peter Capuyns,apprentice,Peter Meerts,master,06071661B
+Antoon Van Opstal,master,Jacques Nyts,apprentice,6081631
+Gaspar Levens,apprentice,Jan Baptist Grondone,master,6101612
+Hans Van den Eynde,master,Jan Baptist De Wolf,apprentice,6101621
+Otto Van Veen,master,Romeyn Sanglier,apprentice,6111624
+Gaspar Van Anderhaeghen,apprentice,Jan Jacobs,master,6111653
+Antoon Van Opstal,master,Jan Meysens,apprentice,7021629
+Alexander Vermeulen,apprentice,Godfried Allaert,master,7051626
+Nicolaes Yperseel,apprentice,Wolfaert Wiedemans,master,07051640A
+Jan Ringheler,master,Johan Bourguignon,apprentice,07051640B
+Francois Ysenbaut,dean,Philips Reyniers,dean,7051675
+Francois Van Dipeldal,master,Nicolaes Geraes,apprentice,7061607
+Fernand Bert,master,Jacques Van Severpel,apprentice,7061613
+Philips Van der Elst,master,Robert Maltum,apprentice,7061640
+Gillis Sandes,apprentice,Wolfaert Wiedemans,master,7061661
+Cornelis Jacobs,masters sons,Wouter Jacobs,master,7071631
+Francois Morren,master,Lucas De Kemp,master,7071646
+Baptist Eghets,apprentice,Hendrick De Vries,master,07081613A
+Jan Doms,apprentice,Michiel Hardies,master,07081613B
+Nicolaes Van Yperseel,apprentice,Willem Van Worms,master,7081614
+Francois Mossens,master,Jan Trippaert,master,7081618
+Francois Mossens,apprentice,Jan Trippaert,master,7081618
+Adam Ditman,master,Jan Moenne,apprentice,7081627
+Jan Hubert,apprentice,Joris Storm,master,07101610A
+Francois Van den Couter,apprentice,Wouter Janssens,master,07101610B
+Hendrick Lierinck,apprentice,Jan [b] Raes,master,7101664
+Jan Baptist Torel,apprentice,Leo Van Heil,master,7111639
+Jan Gotemans,master,Joris Vylant,master,07121613A
+Michiel Geeraerts,master,Willem Van den Eynde,apprentice,07121613B
+Joos De Neck,master,Lucas De Kemp,master,07121647B
+Jan Van Rillaert,masters sons,Nicolaes Van Rillaert,master,8011614
+Daniel Van Heil,master,Peter Hellinck,master,8011657
+Antoon Van Opstal,master,Jan De Haese,apprentice,8021634
+Jan Odeyn,master,Roeland Van der Schaemp,apprentice,8031641
+Jacques Triccot,apprentice,Jan Van den Bosch,master,8031673
+Lanceloot Volders,apprentice,Peter [b] Van Gindertaelen,master,8041650
+Hieronymus Van Orley,master,Peter Coppens,apprentice,8051603
+Bernard Dierdone,apprentice,Jan Van der Vinne,master,08051607A
+Francois Laureys,apprentice,Michiel De Bordeaux,master,08051607B
+Carel De Swert,master,Thomas Verhasselt,apprentice,8051681
+Augustyn De Boeck,master,Michiel De Bordeaux,master,08061606A
+Jacob Hanebal,master,Michiel Hardies,master,08061606B
+Augustyn De Boeck,master,Peter Laseer,apprentice,8061617
+Jan Ordas,apprentice,Nicolaes Tassaert,master,8061618
+Jacques Du Fay,master,Jan Odeyn,master,08071639A
+Jan Meysens,master,Michiel De Sainneville,apprentice,08071639B
+Jan Meysens,master,Michiel De Sainneville,master,08071639B
+Jan Meysens,master,Simon Lemmens,apprentice,08071639C
+Francois Van Froonhoven,apprentice,Lenard Wauwermans,master,08071640A
+Jacques Loots,apprentice,Nicolaes Schinckels,master,08071640B
+Jacques Faydherbe,master,Philips Ernest Pelgrin,apprentice,08071640C
+Francois Dervau,apprentice,Nicolaes Bertreyn,master,08071640D
+Francois Le Grand,apprentice,Jan De Paege,master,08071643A
+Jacob Van Grimberghen,master,Jean Le Corbisier,apprentice,08071643B
+Andries Peter Du Bael,apprentice,Lucas Achtschellinck,master,8071661
+Gillis Van Tilborgh,master,Jan Marines,apprentice,8071665
+Augustyn Van der Keersen,apprentice,Francois Van den Bemde,master,8071679
+Passchier Luppens,apprentice,Philips Van Bentem,master,8081606
+Godfried Rogaerts,master,Reynier Meganck,apprentice,8081618
+Peter Busset,master,Peter Noveliers,master,8081624
+Peter Busset,apprentice,Peter Noveliers,master,8081624
+Joos De Neck,apprentice,Lucas De Kemp,master,8121639
+Francois Verbelen,master,Lucas Waeykarts,apprentice,9021623
+Francois Verbelen,master,Lucas Waeykarts,master,9021623
+Jacques Antoon De Meester,apprentice,Lanceloot Lefebure,master,9031627
+Nicolaes Schinckels,apprentice,Philips Van der Elst,master,9031630
+David Noveliers,master,Peter Van Gindertaelen,apprentice,9041627
+Jacques Roddaert,master,Jan De Raet,apprentice,9061612
+Angelus De Clerck,master,Jan Meetens,apprentice,9061631
+Gelaude Munier,apprentice,Jan Van Velthoven,master,09061636A
+Engel Van den Bosch,master,Jan Goriels,apprentice,09061636B
+Carel Van den Steen,master,Maerten Coeruchant,apprentice,09061636C
+Cornelis Van Bronckhorst,master,Jan Gillissone,apprentice,09061636D
+Gaerele Van Bonter,apprentice,Jacques De Fayter,master,9071609
+Jacques Faydherbe,master,Jan Van Daele,apprentice,9071621
+Louis De Peuter,apprentice,Louis Van den Pleyne,master,9081607
+Gratiaen De Meester,apprentice,Jacob De Vries,master,9091609
+Jacob De Vries,master,Jan Van Aelst,apprentice,09091619A
+Jan De Duyts,master,Maerten Van der Venne,apprentice,09091619B
+Jan De Duyts,master,Maerten Van der Venne,master,09091619B
+Dirick Janssens,master,Nicolaes Van Bogarden,apprentice,9101615
+David Noveliers,masters sons,Peter Noveliers,master,9111610
+Hieronymus Fluffens,master,Jan De Roy,apprentice,9111628
+Francois De Roota,apprentice,Godfried Allaert,master,9111629
+Jacob Marchant,apprentice,Peter Van Orley,master,09111692A
+Peter De Vulder,apprentice,Peter Lambillot,master,09111692B
+Nicolaes Sibrecht,apprentice,Peter Noveliers,master,9121614
+Jan Van Bronckhorst,master,Michiel Benoot,apprentice,09121614A
+Jan Van Bronckhorst,master,Michiel Benoot,master,09121614A
+Jan Welcher,apprentice,Philips Britseels,master,09121614B
+Peter Busset,master,Theodoor Manteau,apprentice,9121639
+Hans Monckernet,apprentice,Maximiliaen De Groete,master,10011605
+Hendrick De Vries,master,Jan Fremont,apprentice,10011614
+Hendrick De Vries,master,Jan Fremont,master,10011614
+Jacques Artois,apprentice,Jan Mertens,master,10011625
+Fernand Bert,master,Jacob Van Seulper,apprentice,10011626
+Fernand Bert,master,Jacob Van Seulper,master,10011626
+Hendrick De Clerck,master,Jacques De Clerck,masters sons,10011634A
+Gelaude Cannaut,apprentice,Ignatius Van der Stock,master,10011661
+Cornelis Gillis,master,Jacques Roddaert,master,10021608
+Adriaen Rombouts,apprentice,Joos Van Craesbeeck,master,10021653
+Ignatius De Backer,apprentice,Jan Baptist Van Heil,master,10021663
+Augustyn De Joncker,apprentice,Laurys Van Rossum,master,10021682
+Augustyn Requerant,apprentice,Michiel De Bordeaux,master,10031603
+Carel De Kemp,masters sons,Lucas De Kemp,master,10031608A
+Hendrick Leuvens,master,Jacques Van der Laemen,apprentice,10031616
+Hendrick Leuvens,master,Jacques Van der Laemen,master,10031616
+Albert De Ruyt,apprentice,Melchior De la Marche,master,10031627
+Antoon Leson,apprentice,Michiel Benoot,master,10031637
+Adriaen Baudewyns,apprentice,Adriaen Francois Baudewyns,master,10031694
+Michiel De Bordeaux,master,Pierre Eusache,apprentice,10051612
+Balthasar Leshayeer,apprentice,Godfried Allaert,master,10051638
+Hieronymus Fluffens,master,Philips De Craen,apprentice,10051639
+Maria De Waeyer,master,Philips Van der Baeren,apprentice,10051640
+Jacob De Backer,master,Jan De Sanghere,apprentice,10051645A
+Jan Van Vollesom,apprentice,Peter Van der Plas,master,10051645B
+Hans De Smedt,apprentice,Jan Van Berlaghe,master,10061609B
+Cornelis Gillis,master,Hans Van Kelegem,apprentice,10061609C
+Carel Lottemberg,apprentice,Willem Van Schoor,master,10061676A
+Carolus Van Baeckegom,apprentice,Thomas Pins,master,10061676B
+Jan Noveliers,apprentice,Peter Noveliers,master,10071605
+Hans Van Overstraeten,master,Hendrick De Clerck,master,10071611
+Jacques Faydherbe,master,Jan Happaert,apprentice,10071640
+Antoon Van den Hecke,apprentice,Peter Snayers,master,10071649
+Antoon Van den Bossche,master,Gillis Bossuyt,apprentice,10071662
+Carel De Swert,master,Denys Chounre,apprentice,10071671
+Francois De Godts,master,Gerard Van Serpenbergh,apprentice,10081617
+Philips Britseels,master,Philips Pickaert,apprentice,10081636
+Cornelis De Pooter,apprentice,Jan Jacobs,master,10081653
+Matthys Schers,apprentice,Michiel De Noye,master,10101607
+Adam Ditman,apprentice,Hendrick De Vries,master,10101609
+Cornelis Kerckjans,master,Jacob Hanebal,master,10101627
+Cornelis Kerckjans,apprentice,Jacob Hanebal,master,10101627
+Joos Dirckx,apprentice,Nicolaes Artois,master,10101653
+Hendrick Van Bronckhorst,master,Johannes Maes,apprentice,10111665
+Francois Reydams,apprentice,Jan Arys,master,10111666A
+Matthys Van den Bosch,master,Nicolaes Van den Schilde,apprentice,10111668
+Huybrecht Van Waeyenbergh,master,Jan Van Gindertaelen,apprentice,10111682
+Adriaen Francois Baudewyns,dean,Huybrecht Van Waeyenbergh,master,10111682
+Adriaen Francois Baudewyns,dean,Jan Van Gindertaelen,apprentice,10111682
+Jan De Potter,apprentice,Jan Mattheus,master,10121614
+Jan Battelier,apprentice,Philips Britseels,master,10121618
+Francois Matthysens,master,Willem Van Liefde,apprentice,10121630
+Jan Baptist Herquiau,apprentice,Jan De Vos,master,11011634
+Francois Reps,master,Philips Reps,apprentice,11011694
+Francois Reps,master,Philips Reps,apprentice,11011694
+Charles De Croy,apprentice,Gaspar De Craeyer,master,11021647
+Cornelis Kerckjans,master,Jacob De Peuter,apprentice,11031645
+Antoon Van Berenbroeck,master,Lanceloot Lefebure,master,11041623
+Antoon Van Berenbroeck,apprentice,Lanceloot Lefebure,master,11041623
+Daniel Van Heil,master,Louis De Vleeshouwer,apprentice,11061643
+Jan Bouillon,master,Simon Hardies,apprentice,11081609
+Antoon Van der Meren,masters sons,Bartholomeus Van der Meren,master,11091599A
+Hans Van Bentem,masters sons,Philips Van Bentem,master,11091599B
+Jan Mertens,masters sons,Nicolaes Mertens,master,11091599C
+Gaspar Boerchhet,apprentice,Michiel Hardies,master,11091606
+Ambrosius Van der Wienrien,apprentice,Michiel De Bordeaux,master,11101602
+Jacques Van Worms,master,Willem Van Beyeren,master,11101640
+Peter Van der Vecken,master,Willem Lesterbos,apprentice,11111640A
+Peter Van der Vecken,master,Willem Lesterbos,master,11111640A
+Jacques Artois,master,Nicolaes Artois,master,11111640B
+Erasmus Crock,master,Nicolaes Michels,apprentice,11111666
+Jan Van Cottem,apprentice,Lucas De Kemp,master,11121640
+Francois De Backer,apprentice,Peter Van Conincxloo,master,12011605
+Francois De Backer,master,Peter Van Conincxloo,master,12011605
+Joos Van Dooren,apprentice,Leo Van Heil,master,12011631
+Geleyn Van Dooren,master,Joos Van Dooren,apprentice,12011631
+Geleyn Van Dooren,master,Leo Van Heil,master,12011631
+Jan Van der Borcht,apprentice,Severyn De Kegel,master,12011641
+Peter Beser,apprentice,Peter Noveliers,master,12031616
+David Noveliers,master,Francois De Gruyter,apprentice,12031620
+David Noveliers,master,Francois De Gruyter,master,12031620
+Antoon Van Opstal,master,Peter Francois Carega,master,12031641B
+Jacques Faydherbe,master,Peter Van Gindertaelen,master,12031641C
+Maximiliaen Van der Elst,master,Willem Lauwers,master,12031641D
+Alexander Bert,master,Jan Baptist Piscador,master,12031641E
+Antoon Van Beveren,master,Jacques Wauters,master,12031651
+Erasmus Crock,master,Willem Niemans,apprentice,12041663
+Jacques Van Worms,master,Willem Van Beyeren,apprentice,12051610
+Everard Rurinckx,master,Lucas Van der Straeten,apprentice,12051640
+Gillis Van der Nieuwerstadt,apprentice,Peter [b] Van Gindertaelen,master,12051660
+Jan Claerbodts,apprentice,Jan Mattheus,master,12061608A
+Francois Tons,master,Philips De Backer,apprentice,12061608B
+Jacques Van Worms,master,Jan Arys,apprentice,12061631
+Cornelis Van den Dries,apprentice,Jan Geeraerts,master,12061643A
+Jan Claessens,apprentice,Louis De Vadder,master,12061643B
+Peter Coppens,master,Willem Moreau,apprentice,12061643C
+Nicolaes De Smedt,master,Peter Van der Plas,master,12061645B
+Carel Alexander Van Geel,master,Jan Van Velthoven,master,12061645C
+David Noveliers,master,Salomon Noveliers,masters sons,12061645D
+Alexander Levens,apprentice,Peter Noveliers,master,12071608
+Jan Gerard Du Chateau,apprentice,Jan Meysens,master,12071640
+Jacob Van Haettem,apprentice,Lucas Achtschellinck,master,12071683
+Jan Van Daele,master,Nicolaes Pletinckx,apprentice,12071686
+Dirick Caussens,apprentice,Jacques Roddaert,master,12081609
+Cesar Hermans,apprentice,Willem Van Schoor,master,12081653A
+Jacques Artois,master,Peter Van Waetom,apprentice,12081653B
+Godfried Allaert,master,Peter Philips Kavelleer,apprentice,12081653C
+Peter De Backer,master,Philips Boellon,apprentice,12081653D
+Jan Bousou,apprentice,Jan Raes,master,12081661A
+Bartholomeus Philipsens,master,Jan Peneuner,apprentice,12081661B
+Willem Commys,apprentice,Wolfaert Wiedemans,master,12081661C
+Angelus De Clerck,master,Jan Laurys De Brye,apprentice,12091629
+Gillis Penninckx,apprentice,Lenard Wauwermans,master,12091640
+Denys Van Alsloot,master,Sennyn Van Eyck,apprentice,12101603
+Jacques Regaets,master,Michiel Peres,apprentice,12101613A
+Carel Montien,apprentice,Servaes Coels,master,12101613B
+Joos De Vriendt,apprentice,Lucas Claessens,master,12101613C
+Lanceloot Lefebure,master,Pierre Tassot,apprentice,12101620
+Jacob Mememans,apprentice,Lenard Wauwermans,master,12101623
+Gillis Bouvin,apprentice,Jan Schoreels,master,12101689
+Michiel De Noye,master,Philips Van Bentem,master,12111605
+Jan De Roy,master,Servaes Coels,master,12111620
+Jan De Roy,apprentice,Servaes Coels,master,12111620
+David Ringheler,master,Jan De Prie,apprentice,12121612
+Maximiliaen Van der Elst,master,Willem Lauwers,apprentice,13011630
+Engel Van den Bosch,master,Francois Coppens,apprentice,13011639A
+Antoon Van der Keersen,apprentice,Peter Van Capenborcht,master,13011639B
+Erasmus Crock,master,Peter De Winter,apprentice,13011693
+Francois Verbelen,master,Jan Verbelen,apprentice,13021603
+Antoon Van der Meren,master,Godfried Allaert,apprentice,13021610
+Carel Van der Gucht,apprentice,Jan De Paege,master,13021617A
+Gillis Claessens,master,Louis Cousin,apprentice,13021617B
+Pangras Beeneken,apprentice,Peter Coppens,master,13021618
+Jacob De Backer,master,Willem Klaret,apprentice,13021651
+Francois Verbelen,master,Lucas Waeykarts,apprentice,13031608
+Gillis Van Blayenbergh,master,Lanceloot Lefebure,master,13051633
+Gillis Van Blayenbergh,apprentice,Lanceloot Lefebure,master,13051633
+Daniel Van Schoor,master,Francois Morren,apprentice,13051643
+Peter Schalie,master,Philips Schalie,masters sons,13051650
+Jacques Van Overstraeten,apprentice,Willem Van Worms,master,13061608
+Antoon Symons,apprentice,Jan Bauwens,master,13061643A
+Peter Nys,apprentice,Peter Van Gindertaelen,master,13061643B
+Daniel De la Fontaine,apprentice,Jan Van Velthoven,master,13071632
+Jacob Godsvriendt,apprentice,Willem Van den Eynde,master,13071634
+Jacob Godsvriendt,master,Willem Van den Eynde,master,13071634
+Cornelis Gillis,master,Laurys Van Andris,apprentice,13071682
+Adriaen Francois Baudewyns,master,Peter ,apprentice,13071686
+Antoon Van der Meren,master,Hans Van den Eynde,apprentice,13081608A
+Fernand Van den Velde,apprentice,Jan Baptist Grondone,master,13081608B
+Jan Van der Vliet,apprentice,Philips Van der Elst,master,13081635A
+Antoon Fransman,apprentice,Antoon Van Beveren,master,13081635B
+Louis Van den Pleyne,master,Nicolaes Van Nevele,master,13101604
+Florentin Collineau,apprentice,Philips Britseels,master,13101611
+Cornelis Van Empel,apprentice,Jacques Artois,master,13101662
+Cornelis Van Empel,master,Jacques Artois,master,13101662
+Antoon Van Beveren,master,Jacques Wauters,apprentice,13111646A
+Jacob Coremans,apprentice,Peter Meerts,master,13111646B
+Antoon Van Opstal,master,Cornelis Goosens,apprentice,13111646C
+Francois Raes,apprentice,Jan Cortois,master,13111660A
+Francois Pauwels,apprentice,Jan Raes,master,13111660B
+Eduaert Sanderlin,apprentice,Peter Snayers,master,13111660C
+Francois Ysenbaut,master,Jacques Baptist Blocheau,apprentice,13111660D
+Bernard De Wevere,apprentice,Willem Van Graenenbroeck,master,13121611
+Gillis Van Waeyenbergh,apprentice,Lucas De Kemp,master,13121634A
+Jacob Van Grimberghen,master,Jan De Post,apprentice,13121634B
+Fernand Bert,master,Lanceloot Jacobs,apprentice,14011604
+Joris Donckerwolck,master,Maximiliaen Van der Elst,apprentice,14011612
+Gaspar Van Vellhen,apprentice,Jacques Roddaert,master,14011617
+Jan Meysens,master,Michiel De Sainneville,apprentice,14011636
+Antoon Sallaert,master,Bartholomeus Dandelot,apprentice,14021617
+Jacques Artois,master,Jan Baptist Fabri,apprentice,14031646
+Gillis Claessens,master,Vincent Muchet,apprentice,14041605
+Antoon Sallaert,apprentice,Michiel De Bordeaux,master,14041606A
+Raphael Coxie,master,Wouter Janssens,apprentice,14041606B
+Joris Storm,master,Lenard Verbruggen,apprentice,14041620A
+Joris Storm,master,Lenard Verbruggen,master,14041620A
+Peter Marckan,apprentice,Theodoor Sony,master,14041620B
+Jan De Sony,master,Theodoor Sony,apprentice,14041620C
+Jan De Sony,master,Theodoor Sony,master,14041620C
+Jacques Francquart,master,Jan De Sony,master,14041620C
+Jacques Francquart,master,Theodoor Sony,apprentice,14041620C
+Jacques Francquart,master,Theodoor Sony,master,14041620C
+Johannes Medard Van der Meren,apprentice,Maximiliaen Van der Elst,master,14041632B
+Antoon Sapien,apprentice,Joos Van den Winckel,master,14041633A
+Jan Uytenhoeven,apprentice,Lucas De Kemp,master,14041633B
+Jan De Molder,apprentice,Jan Odeyn,master,14051643
+Simon Francois Baudewyns,apprentice,[widow of] Croeystens,master,14061644
+Jan Gillet,apprentice,Jan Van Opstal,master,14081653
+Charles Wautier,master,Francois Volsom,apprentice,14081664
+Gabriel Van den Eynde,apprentice,Philips Britseels,master,14101608
+Joris Donckerwolck,master,Severyn Diertyts,apprentice,14101615
+Jacob Godsvriendt,apprentice,Willem Van den Eynde,master,14101625A
+Antoon Van Opstal,master,Jan Daret,apprentice,14101625B
+Hendrick De Vries,master,Jan Marco,master,14111610
+Jan Van der Sanden,apprentice,Peter Coppens,master,14111632A
+Charles Daret,apprentice,Gerard Van Hoochstadt,master,14111632B
+Jan Ballais,apprentice,Peter Van der Borcht,master,14111644
+Lenard Wauwermans,master,Michiel De Haese,apprentice,14121601
+Hendrick De Vries,master,Willem Van Immerseel,apprentice,15011616
+Denys Van Alsloot,master,Peter Van der Borcht,apprentice,15011625
+Denys Van Alsloot,master,Peter Van der Borcht,master,15011625
+Francois Van Niverseel,apprentice,Jan Baptist Van Heil,master,15011644
+Francois Tons,master,Nicolaes Van Herp,apprentice,15021607A
+Balthasar Bolion,apprentice,Cornelis De Bloyer,master,15021607B
+Hendrick De Vries,master,Jan Marco,apprentice,15021608
+Jan Cortois,master,Judocus Van Dormael,apprentice,15021663
+Johannes De Loes,master,Michiel Fortuyn,apprentice,15021667
+Johannes De Loes,master,Michiel Fortuyn,master,15021667
+Charles Wautier,master,Jan Baptist Tel,apprentice,15021682A
+Charles Wautier,master,Peter Van der Belen,apprentice,15021682B
+Bartholomeus Cortois,master,Hendrick Cortois,apprentice,15021682C
+Cornelis Kerckjans,apprentice,Jacob Hanebal,master,15031614A
+Hendrick De Vries,master,Peter Hendrickx,apprentice,15031614B
+Artus Van Laecken,master,Jacques Foucquier,apprentice,15031616
+Artus Van Laecken,master,Jacques Foucquier,master,15031616
+Antoon Van Opstal,master,Peter Francois Carega,apprentice,15031630
+Hans Doms,apprentice,Peter Van Potteloy,master,15051613
+Jan Baptist Grondone,master,Peter Van Assche,apprentice,15051618
+Louis Cousin,master,Tobias Schoonemans,apprentice,15051663
+Nicolaes Schinckels,master,Peter Adriaensen,apprentice,15061644
+Jan Wauters,master,Maerten Laerelinckel,apprentice,15061649
+Jacques Loots,apprentice,Willem Lauwers,master,15071641
+Francisco Martini,apprentice,Gerard Van Hoochstadt,master,15071642
+Antoon Daems,apprentice,Carel Alexander Van Geel,master,15071652
+Artus De Kemp,master,Francois Reurbis,apprentice,15071666
+Gaerue De Hey,apprentice,Peter Bert,master,15081627
+Adam Francois Van der Meulen,master,Peter Van der Meulen,apprentice,15081653A
+Matthys Van den Steen,master,Philips Reyniers,apprentice,15081653B
+Jan De Roy,apprentice,Servaes Coels,master,15091610
+Carel De Swert,master,Jan Baptist Noldens,apprentice,15091667
+Hans Van der Gucht,apprentice,Jacques Roddaert,master,15101605
+Michiel De Bordeaux,master,Pierre Eusache,apprentice,15101610
+Jan Claerbodts,apprentice,Lanceloot Lefebure,master,15101615
+Fernand Bert,master,Lanceloot Jacobs,apprentice,15101619
+Fernand Bert,master,Lanceloot Jacobs,master,15101619
+Jacques De Prins,master,Jan Vriendt,apprentice,15101624
+Hans Besoete,apprentice,Jan Baptist Grondone,master,15111605
+Gillis Claessens,master,Nicolaes Caussens,master,15111613C
+Gillis Claessens,apprentice,Philips Van der Elst,master,15111644
+Gillis Claessens,master,Jacques Faydherbe,apprentice,15121601
+Carsilis Faebiri,apprentice,Jan Mertens,master,15121607
+Americus De Vreese,master,Antoon Van Schelle,master,15121613
+Americus De Vreese,apprentice,Antoon Van Schelle,master,15121613
+Antoon Sallaert,master,Robert Dandelot,apprentice,15121632
+Michiel Geeraerts,master,Willem Van den Eynde,apprentice,16011620
+Michiel Geeraerts,master,Willem Van den Eynde,master,16011620
+Jan De Vos,master,Peter Juwet,apprentice,16011632
+Antoon Van Opstal,master,Michiel Coxie,apprentice,16011636
+Antoon Van der Meren,master,Philips Vermeulen,apprentice,16021613
+Daniel Ficquaert,master,Jan Gotemans,master,16021615
+Daniel Ficquaert,apprentice,Jan Gotemans,master,16021615
+Jan [b] Raes,master,Michiel Raes,apprentice,16021668
+Fernand De Baulx,master,Toussaint De Viennoen,master,16031620A
+Fernand De Baulx,apprentice,Toussaint De Viennoen,master,16031620A
+Abraham Van der Schriecke,master,Baptist Gilgodt,master,16031620B
+Abraham Van der Schriecke,apprentice,Baptist Gilgodt,master,16031620B
+Adam Geeraerts,master,Michiel Geeraerts,masters sons,16051609
+Dominicus Seghers,master,Herman Lesterbos,apprentice,16051612
+Nicolaes Caussens,master,Peter Heldenwiele,apprentice,16051627
+David Ringheler,master,Willem Van der Elst,apprentice,16061626
+David Ringheler,master,Willem Van der Elst,master,16061626
+Peter Snayers,master,Sebastiaen Vranckx,master,16061628
+Peter Snayers,apprentice,Sebastiaen Vranckx,master,16061628
+Erasmus Crock,master,Floris Van Coudenbergh,apprentice,16061677
+Jacob Van der Heyden,master,Judocus Du Prenne,apprentice,16061684
+Lucas Achtschellinck,master,Theobald Michau,apprentice,16061686
+Christoffel Van Conincxloo,apprentice,Nicolaes Pletinckx,master,16061694
+Antoon Van der Meren,master,Nicolaes Marius,apprentice,16071605
+Johan Hermans,apprentice,Peter Bert,master,16071626A
+Cesar Portiers,apprentice,Francois Mossens,master,16071626B
+Jan Baptist Van Boechout,apprentice,Jan Baptist Van Heil,master,16071686
+Peter Coppens,master,Peter Meerynen,apprentice,16081613
+Jan De Moralis,master,Peter Boerie,apprentice,16081624
+Jan De Reyf,apprentice,Lanceloot Volders,master,16081676
+Huybrecht Corsyns,apprentice,Philips Reyniers,master,16081681
+Lucas Achtschellinck,master,Peter Bedet,apprentice,16091674B
+Jan Mertens,master,Thomas De Clerck,apprentice,16101614
+Michiel Van Werckhoven,master,Theodoor De le Roist,apprentice,16101615A
+Francois Van Obberghen,master,Lenard Wauwermans,master,16101623A
+Francois Van Obberghen,apprentice,Lenard Wauwermans,master,16101623A
+Goiers Hack,master,Rombout Van Avont,apprentice,16101623B
+Goiers Hack,master,Rombout Van Avont,master,16101623B
+Jan De Daes,master,Jan Van der Venne,apprentice,16111616A
+Jan De Daes,master,Jan Van der Venne,master,16111616A
+Francois De Bois,master,Jan De Coster,master,16111616B
+Francois De Bois,apprentice,Jan De Coster,master,16111616B
+Gerard Van Hoochstadt,master,Michiel De Bordeaux,master,16121609
+Gaspar De Craeyer,master,Peter Volckaert,apprentice,16121632
+Antoon Van Beveren,master,Jacques Philippe Offhuys,apprentice,16121649
+Philips Monnie,apprentice,Philips [b] Sallaert,dean,17011619
+Philips Monnie,apprentice,Willem Maheu,master,17011619
+Philips [b] Sallaert,dean,Willem Maheu,master,17011619
+Andries De Buck,apprentice,Coenraet Geeraerts,master,17011623
+ Hubert,apprentice,Nicolaes Caussens,master,17011636A
+Jacob De Backer,master,Jan Verheven,apprentice,17011636B
+Carel Van den Steen,master,Engel Van den Bosch,apprentice,17021623A
+Carel Van den Steen,master,Engel Van den Bosch,master,17021623A
+David Ringheler,master,Michiel Ringheler,masters sons,17021623B
+Francois Speecaert,apprentice,Jan Van Velthoven,master,17021642A
+Jacob Godsvriendt,master,Peter De Backer,apprentice,17021642B
+Godfried Van Huynegen,apprentice,Jan Jacobs,master,17021642C
+Cornelis Van Eeverenbroot,master,Michiel Van Eeverenbroot,apprentice,17051621A
+Michiel Huyez,apprentice,Willem Maheu,master,17051621B
+Antoon Sallaert,master,Melchior Sallaert,apprentice,17051621C
+Dominicus Seghers,master,Hans Borremans,apprentice,17061605
+Bartholomeus Knibbe,apprentice,Gerard Van Hoochstadt,master,17061613
+Lenard Wauwermans,master,Severyn De Kegel,apprentice,17061617
+Lenard Wauwermans,master,Severyn De Kegel,master,17061617
+Ledorxen De Solyen,master,Syllyst Willem Herquyauor,apprentice,17071630
+Geleyn Van Ganseuvyck,apprentice,Jan Van der Venne,master,17081617
+Albert Kalckruyter,apprentice,Jan Van Velthoven,master,17091626
+Jan De Willer,apprentice,Michiel Allaert,master,17091684
+George Gerwits,master,Hercules Gerwits,masters sons,17101603
+Antoon Sallaert,master,Hans De Sanmore,apprentice,17101613
+Francois Van Orley,masters sons,Hieronymus Van Orley,master,17101635
+Antoon Nulaert,apprentice,Dominicus Seghers,master,17111615
+Hendrick Wauwermans,masters sons,Lenard Wauwermans,master,17111628
+Antoon Sallaert,master,Jan Arys,master,17111644
+Jacques Faydherbe,master,Louis Le Crohair,apprentice,17111647
+Baptist Floris,master,Francois Floris,masters sons,17121607
+Fernand De Baulx,apprentice,Toussaint De Viennoen,master,17121611
+Cornelis Van Bronckhorst,masters sons,Jan Van Bronckhorst,master,17121621
+Peter Van Capenborcht,master,Willem Lenaerts,master,17121651B
+Jan Noveliers,dean,Jan Schoreels,dean,17121651C
+Jan Noveliers,dean,Michiel Van Eeverenbroot,dean,17121651C
+Jan Schoreels,dean,Michiel Van Eeverenbroot,dean,17121651C
+Lucas Achtschellinck,master,Peter Van der Borcht,master,17121657A
+Lucas Achtschellinck,apprentice,Peter Van der Borcht,master,17121657A
+Jacob Van den Dries,master,Jan Van Daele,master,17121657B
+Jacob Van den Dries,apprentice,Jan Van Daele,master,17121657B
+Antoon Carpentier,apprentice,Peter [b] Van Gindertaelen,master,18011652
+Antoon Van der Meren,master,Hans De Grieck,apprentice,18021603A
+Abraham Greumens,master,Willem Baetemans,apprentice,18021603B
+Louis Van den Pleyne,apprentice,Nicolaes Van Nevele,master,18021603C
+Francois Verbelen,master,Jan Verbelen,apprentice,18021603D
+Jacques Galle,apprentice,Jan Trippaert,master,18021613
+Dominicus Seghers,master,Peter Seghers,masters sons,18021646
+Daniel Van Heil,master,Hendrick Finet,master,18021647
+Gerard Van Hoochstadt,apprentice,Michiel De Bordeaux,master,18031604
+Gaspar De Craeyer,master,Jacques Pezet,apprentice,18031619
+Antoon Van den Bossche,master,Steven Stekeldoore,apprentice,18031640A
+Antoon Van den Bossche,master,Steven Stekeldoore,master,18031640A
+Antoon Van Opstal,master,Jacques Nyts,master,18031640B
+Jan Doms,master,Nicolaes Van der Vinne,apprentice,18031640C
+Jan Doms,master,Nicolaes Van der Vinne,master,18031640C
+Francois Ysenbaut,master,Maerten Laureys,apprentice,18031664
+Antoon Van der Meren,master,Willem Governeur,apprentice,18051616
+Adam Francois Van der Meulen,apprentice,Peter Snayers,master,18051646A
+Daniel Van Heil,master,Gillis De Geldo,apprentice,18051646B
+Hendrick Engels,apprentice,Nicolaes Van der Oost,master,18051646C
+Johannes Thoomunaers,apprentice,Michiel De Haese,master,18061617
+Jan Van Daele,master,Nicolaes Van der Maelen,apprentice,18061644C
+Gaspar De Craeyer,master,Thomas Lefebure,apprentice,18061661
+Peter Balthasar Du Bael,apprentice,Simon Duchatel,master,18061662
+Antoon Van der Meren,master,Godfried Allaert,apprentice,18071624
+Antoon Van der Meren,master,Godfried Allaert,master,18071624
+Gillis Francois Catiae,apprentice,Maerten De la Court,master,18071686
+Jan De Gruyter,apprentice,Jan Noveliers,master,18081618
+Erasmus Crock,apprentice,Lenard Nagels,master,18081639A
+Antoon Allaert,apprentice,Jan De Paege,master,18081639B
+Laurys Van Rossum,apprentice,Matthys Van den Steen,master,18081662
+Jacob Hanebal,master,Marcus Antoon Triccot,apprentice,18091601A
+Hans Van Overstraeten,apprentice,Hendrick De Clerck,master,18091601B
+Cornelis Van Eeverenbroot,apprentice,Gaspar De Craeyer,master,18091610
+Nicolaes Caussens,master,Reynier Bernaerts,apprentice,18091629
+Jan Steps,apprentice,Leo Van Heil,master,18091643A
+Peter Achtschellinck,apprentice,Philips Van der Elst,master,18091643B
+Jacques De Vries,master,Philips Matthys,apprentice,18101604A
+Jacques De Vries,master,Philips Matthys,master,18101604A
+Jacques Van der Borcht,master,Peter Mertens,apprentice,18101604B
+Jan Trippaert,master,Nicolaes Janssens,apprentice,18111609
+David Ringheler,master,Govard Van Beneden,apprentice,19011617
+Jan Doms,master,Nicolaes Van der Vinne,apprentice,19011632
+David Noveliers,master,Francois De Gruyter,apprentice,19041613
+Du[…] Bauwens,master,Jan Bauwens,apprentice,19051611A
+Du[…] Bauwens,master,Jan Bauwens,master,19051611A
+Jan Mattheus,master,Nicolaes Tassaert,apprentice,19051611B
+Bartholomeus Jacobus Van der Recht,apprentice,Hendrick Van Bronckhorst,master,19051683
+Gregorius Refyn,apprentice,Servaes Coels,master,19061603
+Charles Hendrickx,apprentice,Jan Van Bronckhorst,master,19061644
+Jacques Artois,master,Jan Cornelis De Ridder,apprentice,19061645A
+Jan Van Bronckhorst,master,Joris De Loeys,apprentice,19061645B
+Michiel Bauwens,apprentice,Philips Reyniers,master,19061668
+Dominicus Seghers,master,Nicolaes Van Bellinghen,apprentice,19081613
+Jan Soetemans,master,Jan Vaillant,apprentice,19081625
+Jan Soetemans,master,Jan Vaillant,master,19081625
+Jacob De Vries,master,Raphael Herinckx,apprentice,19111612
+Marcus Antone,apprentice,Michiel De Bordeaux,master,19111624
+Jan [b] Raes,master,Nicolaes Galle,apprentice,19121670
+Lenard Wauwermans,master,Tancredi Isca,apprentice,20011617
+Matthys Van den Steen,master,Tobias Mynaert,apprentice,20011638
+Ferdinand Colyns,apprentice,Gaspar Van Eyck,master,20011673
+Lucas Van Evere,master,Nicolaes Van Evere,masters sons,20021601A
+Carel Soeer,apprentice,Jan Collaert,master,20021613
+Angelus De Clerck,master,Maerten Governeur,apprentice,20021619A
+Angelus De Clerck,master,Willem Maheu,master,20021619B
+Angelus De Clerck,apprentice,Willem Maheu,master,20021619B
+Jan Doms,master,Michiel Hardies,master,20021625
+Jan Doms,apprentice,Michiel Hardies,master,20021625
+Gaspar De Craeyer,master,Joos Van Hamme,apprentice,20021642A
+Carel Nore,apprentice,Lucas De Kemp,master,20021642B
+Hans Seraelst,apprentice,Jan Gotemans,master,20031607A
+Francois De Neer,apprentice,Hans Mennens,master,20031607B
+Alexander Van Avont,apprentice,Antoon Van Opstal,master,20031640A
+Gerard Van Hoochstadt,master,Laurys De Wemer,apprentice,20031640B
+Francois De Smedt,apprentice,Peter Van der Plas,master,20031640C
+Daniel Van Heil,master,Gerard De Ruel,apprentice,20041648
+Francois Tons,master,Francois Vaeyendries,apprentice,20051612
+Gillis Claessens,master,Nicolaes Caussens,apprentice,20061606A
+Nicolaes Van Nevele,master,Philips De Vadder,apprentice,20061606B
+Godfried Rogaerts,masters sons,Simon Rogaerts,master,20061611A
+Hercules Gerwits,master,Jan De Pre,apprentice,20061611B
+Dominicus Seghers,master,Gelaude Habaert,apprentice,20061620A
+Dominicus Seghers,master,Gelaude Habaert,master,20061620A
+Hendrick De Vries,master,Joos Van den Winckel,apprentice,20061620B
+Michiel De Goir,apprentice,Peter Busset,master,20061626A
+Jacob Van der Heyden,master,Jacob Van der Merken,apprentice,20061683
+Jan Pennens,apprentice,Willem Van Graenenbroeck,master,20071624
+Antoon Sallaert,master,Michiel De Bordeaux,master,20081613
+Jan De Kemp,master,Lucas De Kemp,masters sons,20081615
+Dominicus Seghers,master,Nicolaes Van Bellinghen,apprentice,20081624
+Dominicus Seghers,master,Nicolaes Van Bellinghen,master,20081624
+Dominicus Seghers,master,Francois De Godts,master,20091604
+Lanceloot Lefebure,master,Michiel Confaelt,apprentice,20101609
+Antoon Van Beveren,master,Michiel Filier,apprentice,20101637
+Antoon Boot,apprentice,Maximiliaen De Groete,master,20111612
+Hieronymus Ballais,apprentice,Peter Van der Borcht,master,20111646A
+Leo Van Heil,master,Willem De Kempeneer,apprentice,20111646B
+Hendrick Pie,apprentice,Thomas Pins,master,20111689
+Peter Lesserbomen,apprentice,Philips Van Bentem,master,20121601
+Francois De Backer,master,Maerten Heunis,apprentice,20121608
+Jacob Mahi,apprentice,Jan Baptist Van Heil,master,20121651
+Jan Mattheus,master,Nicolaes Tassaert,apprentice,21011614
+Jan Mattheus,master,Nicolaes Tassaert,master,21011614
+Antoon Van Opstal,master,Jan Mattheus,master,21011616
+Antoon Van Opstal,apprentice,Jan Mattheus,master,21011616
+Gaspar De Craeyer,master,Hendrick Vervoort,apprentice,21011636
+Philips Sergos,master,Quinten Symons,apprentice,21021613
+Lenard Wauwermans,master,Nicolaes Oroer,apprentice,21031638
+Antoon Van Beveren,master,Jan Cornelis,apprentice,21031643
+Antoon Britseels,masters sons,Philips Britseels,master,21041649B
+Gysbrecht Venus,master,Toussaint De Viennoen,master,21061611
+Francois De Brye,apprentice,Jan De Moralis,master,21061612
+Adriaen De Broe,apprentice,Coenraet Geeraerts,master,21061628
+Peter Meerts,master,Philips Van der Elst,master,21061640
+Albert Van Loosvelden,apprentice,Peter De Backer,master,21061644
+Peter Coppens,master,Peter Hedoys,apprentice,21081631
+Engel Van den Bosch,master,Peter Van Capenborcht,apprentice,21091626A
+Bartholomeus Van der Vinne,apprentice,Carel Van den Steen,master,21091626B
+Christoffel Sergos,master,Philips Sergos,masters sons,21101607
+Gillis Cleysens,apprentice,Philips De Wander,master,21101623
+Gillis Cleysens,master,Philips De Wander,master,21101623
+Antoon Van Opstal,dean,Jan Van Rillaert,dean,21101635
+Antoon Van Opstal,dean,Peter Coppens,dean,21101635
+Jan Van Rillaert,dean,Peter Coppens,dean,21101635
+Cornelis Van Conincxloo,apprentice,Willem Van Worms,master,21111604
+Jan Noveliers,master,Jan Symons,apprentice,21111623
+Cornelis Gillis,master,Nicolaes Jacobs,apprentice,21111647
+Jan Mattheus,master,Nicolaes Bernaerts,apprentice,21121630
+Antoon Mertens,apprentice,Jan Van Rillaert,master,22011626
+Gillis Janssens,apprentice,Philips Van Bentem,master,22021600
+Antoon Van Opstal,master,Jan Meysens,apprentice,22021634
+Antoon Van Opstal,master,Jan Meysens,master,22021634
+Bastiaen Van den Ray,apprentice,Willem Piscador,master,22031662
+Adam Ditman,master,Hendrick De Vries,master,22041621
+Adam Ditman,apprentice,Hendrick De Vries,master,22041621
+Melchior Van Geldre,apprentice,Severyn Diertyts,master,22051626
+Jan Baptist Van Heil,master,Lambert Sanghers,apprentice,22051676
+Joris Storm,master,Lenard Verbruggen,apprentice,22061609
+Hans Mennens,master,Louis Van Grimberghen,apprentice,22061611
+Jan Trippaert,master,Nicolaes Janssens,apprentice,22061619
+Jan Trippaert,master,Nicolaes Janssens,master,22061619
+Hans Van Vichel,master,Lenard Wauwermans,master,22061628A
+Hans Van Vichel,apprentice,Lenard Wauwermans,master,22061628A
+Cornelis Van Eeverenbroot,master,Michiel Van Eeverenbroot,apprentice,22061628B
+Cornelis Van Eeverenbroot,master,Michiel Van Eeverenbroot,master,22061628B
+David Noveliers,master,Peter Van Gindertaelen,master,22061645
+Jan Ringheler,master,Willem Jacobs,apprentice,22061668
+Jacob Van Schoens,apprentice,Jacques De Fayter,master,22071606A
+Antoon Van Opstal,apprentice,Jan Mattheus,master,22071606B
+Michiel Mertens,masters sons,Nicolaes Mertens,master,22081601
+Francois Meysens,apprentice,Jan Trippaert,master,22081607
+Daniel Van Schoor,master,Jacob Weylinghen,apprentice,22081644A
+Peter Busset,master,Thomas De Vos,apprentice,22081644C
+Peter Busset,master,Thomas De Vos,apprentice,22081644C
+Antoon Sallaert,master,Hendrick Van Leeuw,apprentice,22081644D
+Hendrick De Vos,apprentice,Lanceloot Volders,master,22091677
+Adriaen Poetterloo,master,Hans Arens,apprentice,22101601
+Adriaen De Haever,apprentice,Michiel De Noye,master,22101610A
+Augustyn De Boeck,master,Nicolaes Matthys,apprentice,22101610B
+Jan Baptist Van Heil,masters sons,Leo Van Heil,master,22101643A
+Andries Ingnatius Cosyn,apprentice,Jan Volsom,master,22101666
+Hans Van der Gucht,master,Jacques Roddaert,master,22111612
+Cornelis Van Eeverenbroot,master,Gaspar De Craeyer,master,22111613A
+Gaspar De Craeyer,master,Maerten Reyers,apprentice,22111613B
+Hubert De Corbasie,apprentice,Jacob Van Grimberghen,master,22111631
+Adriaen Francois Baudewyns,apprentice,Ignatius Van der Stock,master,22111665
+Adriaen Francois Baudewyns,master,Ignatius Van der Stock,master,22111665
+Antoon Sallaert,master,Jan Baptist Sallaert,master,22121644
+Gaspar De Craeyer,master,Philips Garsao,apprentice,23011622
+Judocus Lamberto,master,Thomas Van Schilde,apprentice,23011694
+Judocus Lamberto,master,Thomas Van Schilde,apprentice,23011694
+Gillis Van Blayenbergh,apprentice,Lanceloot Lefebure,master,23031622
+Antoon Podevin,apprentice,Matthys Schoevaert,dean,23041693
+Antoon Podevin,apprentice,Matthys Schoevaert,master,23041693
+Denys Van Alsloot,master,Willem De Moy,apprentice,23051619
+Denys Van Alsloot,master,Willem De Moy,master,23051619
+Adriaen Van Zinnick,master,Hans Van den Velde,apprentice,23061607
+Jan Gotemans,master,Jan Vaillant,apprentice,23061612
+Francois Matthysens,master,Gelaude Berne,apprentice,23061622
+Antoon Sallaert,master,Robert Dandelot,master,23061648
+Gillis Leyniers,master,Willem Van Worms,master,23071618
+Gillis Leyniers,apprentice,Willem Van Worms,master,23071618
+Jan Cosyn,apprentice,Willem Lenaerts,master,23071663
+Godfried Rogaerts,master,Hendrick Heymans,apprentice,23091615
+Angelus De Clerck,master,Antoon Warnier,apprentice,23101625A
+Philips Van der Elst,master,Servaes Coels,master,23101625B
+Philips Van der Elst,apprentice,Servaes Coels,master,23101625B
+Adolf Van Nieuwenhuysen,apprentice,Jan Bouillon,master,23111616
+Adriaen Van den Broeck,apprentice,Gaspar De Craeyer,master,23111631
+Michiel Van Werckhoven,master,Peter Van den Eede,apprentice,24011622
+Gabriel Anselmus,apprentice,Peter Van der Borcht,master,24011641
+Jan Bastuyne,apprentice,Michiel Benoot,master,24011652
+Gelaude Le Francq,apprentice,Michiel De Bordeaux,master,24021620
+Antoon Coelemans,apprentice,Hans Goddaert,master,24021622A
+Francois Van Boest,apprentice,Lenard Wauwermans,master,24021622B
+Jacques Roddaert,master,Jochem Houvaet,apprentice,24021622C
+Willem Lesterbos,master,Willem Van der Biest,apprentice,24021645
+Blaes Cleirbosch,apprentice,Passchier Luppens,master,24031615
+Peter Van Hoeck,master,Tobias Verhaecht,master,24041626
+Peter Van Hoeck,apprentice,Tobias Verhaecht,master,24041626
+Jan Van Waken,apprentice,Jan [b] Jacobs,master,24041663
+Francois Tons,master,Willem Boulengier,apprentice,24051615
+Francois Matthysens,masters sons,Jan Mattheus,master,24051622
+Jacques Faydherbe,master,Peter Le Gruts,apprentice,24051638
+Olivier De Coene,apprentice,Raymandus Ringheler,master,24051675
+Hans Van Vichel,apprentice,Lenard Wauwermans,master,24061604
+Jan Vaillant,dean,Jan Van Bronckhorst,dean,24061632
+Jan Vaillant,dean,Quinten Symons,dean,24061632
+Jan Van Bronckhorst,dean,Quinten Symons,dean,24061632
+Joos Van den Winckel,master,Peter Van den Winckel,masters sons,24061654B
+Francois In den Vyl,master,Francois Van den Bemde,apprentice,24061654F
+Engel Van den Bosch,master,Jan Van den Bosch,apprentice,24061654G
+Jan Van den Bosch,apprentice,Leo [b] Van Heil,master,24061654H
+Leo Van Heil,master,Thomas La Quointe,apprentice,24061654I
+Jan Bael,apprentice,Wolfaert Wiedemans,master,24061654J
+Jan Baptist Rossinol,apprentice,Maerten ,master,24061654K
+Jacques Artois,master,Philips Van Dapels,apprentice,24061654L
+Cornelis Van Bronckhorst,master,Willem Van Berghen,apprentice,24061654M
+Cornelis Van Bronckhorst,master,Willem Van Berghen,apprentice,24061654M
+Antoon Symons,master,Jan Symons,apprentice,24061655C
+Jan Volsom,apprentice,Peter [b] Van Gindertaelen,master,24061655D
+Antoon Van den Bossche,master,Peter De Backer,apprentice,24061655F
+Francois Monnaville,apprentice,Gaspar De Craeyer,master,24061656A
+Gillis Van Tilborgh,master,Hieronymus Zeti,apprentice,24061656B
+Jan Baptist Van der Bruggen,apprentice,Johannes De Loes,master,24061656C
+Leo Van Heil,master,Reynier Meganck,apprentice,24061656D
+Francois Toussaint,apprentice,Peter [b] Van Gindertaelen,master,24061656E
+Jan Vastenavont,apprentice,Peter Snayers,master,24061656F
+Francois De Smedt,apprentice,Jan Jacobs,master,24061657A
+Christoffel Massaert,apprentice,Wolfaert Wiedemans,master,24061657B
+Jan Baptist Borremans,apprentice,Michiel Sweerts,master,24061657C
+Francois Paradis,apprentice,Jan Van Opstal,master,24061657D
+Francois Ysenbaut,master,Jan Raes,apprentice,24061657E
+Gillis Van Tilborgh,master,Jan La Court,apprentice,24061657F
+Jan Van den Broeck,apprentice,Matthys Van den Steen,master,24061657G
+Charles Wautier,master,Pierre Viviee,apprentice,24061657H
+Simon Duchatel,master,Willem Ruto,apprentice,24061657I
+Lanceloot Volders,master,Peter [b] Van Gindertaelen,master,24061657K
+Lanceloot Volders,apprentice,Peter [b] Van Gindertaelen,master,24061657K
+Gaspar De Craeyer,master,Lenard Uytenhoeven,apprentice,24061658A
+Jan De Berge,apprentice,Steven Stekeldoore,master,24061658B
+Jacob De Peuter,master,Robert De Longe,apprentice,24061658C
+Peter Meerts,master,Peter Van Es,apprentice,24061658D
+Jan Baptist Van Heil,master,Peter Kerckhove,apprentice,24061658E
+Gillis Van Tilborgh,master,Jan Vinckx,apprentice,24061658F
+Peter De Backer,master,Willem Robyns,apprentice,24061658G
+Joris Ringheler,master,Peter De Rauw,apprentice,24061659A
+Jan Christoffel Lotin,apprentice,Lucas Achtschellinck,master,24061659B
+Jacob Francois Tacke,apprentice,Jan Van Opstal,master,24061659C
+Francois Coppens,master,Hendrick Engelbert Leroues,apprentice,24061659D
+Johannes De Loes,master,Michiel Fortuyn,apprentice,24061659E
+Francois Coppens,master,Maximiliaen Van Liewe,apprentice,24061660A
+Hendrick Van Bronckhorst,master,Nicolaes Maes,apprentice,24061660B
+ Loosvelt,master,Adriaen Hernandus,apprentice,24061660C
+Gillis Van Tilborgh,master,Jan Fraeyenborch,apprentice,24061660D
+Daniel Van Heil,master,Gillis Van Auwerkerck,apprentice,24061660E
+Peter De Backer,master,Peter Eyckens,apprentice,24061660K
+Carel Alexander Van Geel,master,Hendrick Wavers,apprentice,24061660L
+Jan Raes,dean,Matthys Van den Steen,dean,24061664
+Gillis Van Tilborgh,dean,Jan Raes,dean,24061664
+Gillis Van Tilborgh,dean,Matthys Van den Steen,dean,24061664
+Jan Gillis,dean,Melchior Sallaert,dean,24061666
+Francois Ysenbaut,dean,Jan Gillis,dean,24061666
+Francois Ysenbaut,dean,Melchior Sallaert,dean,24061666
+Adriaen De Caron,apprentice,Jan Van Daele,master,24061692A
+Carolus Van Baeckegom,master,Michiel Van Cutsem,apprentice,24061692B
+Thomas Pins,master,[NN] Van der Hopstadt,apprentice,24061692C
+Mario Tibauti,apprentice,Philips Van der Elst,master,24071638
+D[…] Du Paron,apprentice,Jan Van Daele,master,24071692
+Nicolaes Letaer,apprentice,Peter Busset,master,24081631A
+Hieronymus Vleughaert,apprentice,Willem De Moy,master,24081631B
+Michiel Crispiel,master,Philips Crispiel,apprentice,24091612
+Francois Floris,master,Michiel Crispiel,master,24091612
+Francois Floris,master,Philips Crispiel,apprentice,24091612
+Gillis Godtsvriendt,apprentice,Jacob Godsvriendt,master,24091637
+Gaspar De Craeyer,master,Jacques Vermegho,apprentice,24101616
+David Noveliers,master,Francois Cappelle,apprentice,24101619
+Johannes De Loes,master,Judocus Lamberto,apprentice,24101670
+Gelaude Sollay,apprentice,Peter Coppens,master,24111623A
+Herman Van den Berghen,apprentice,Lanceloot Lefebure,master,24111623B
+Brixius Van der Elst,master,Jan Collaert,master,25011614
+Brixius Van der Elst,apprentice,Jan Collaert,master,25011614
+Gillis Donckerwolck,apprentice,Peter Meerts,master,25011652
+Daniel Van Schoor,masters sons,Jacob Van Schoor,master,25031643
+Hans Van Overstraeten,master,Jan Van Obberghen,apprentice,25041615A
+Coryn Steck,apprentice,Jan Baptist Grondone,master,25041615B
+Hendrick Van den Steen,apprentice,Jacques Roddaert,master,25041629
+Adriaen Mennens,masters sons,Jan Mennens,master,25041630
+Peter Roelemans,master,Willem Maheu,apprentice,25051611
+Peter Roelemans,master,Willem Maheu,master,25051611
+Carel Van den Steen,master,Engel Van den Bosch,apprentice,25051614
+Bernard Van Rampelbergh,master,Michiel De Haese,master,25051628
+Bernard Van Rampelbergh,apprentice,Michiel De Haese,master,25051628
+Nicolaes Schinckels,master,Philips Van der Elst,master,25051640
+Jan Ringheler,master,Peter Formauille,apprentice,25051683
+Jan Letart,apprentice,Theodoor Sony,master,25061626
+Jan Baptist De Primont,apprentice,Michiel Van Bronckhorst,master,25061663
+Adriaen Francois Baudewyns,master,Matthys Schoevaert,apprentice,25061682A
+Antoon Van Dormael,apprentice,Jan Van Daele,master,25061682B
+Antoon Van der Meren,master,Nicolaes Marius,apprentice,25071605
+Antoon Sallaert,master,Jan Van den Steen,apprentice,25071649
+Bartholomeus Tonmye,apprentice,Raphael Coxie,master,25081607
+Robert Drioul,apprentice,Servaes Coels,master,25081625
+Gabriel De Banst,apprentice,Jan Baptist Van Heil,master,25081666
+Jacques Van Worms,master,Jan Aerts,apprentice,25091629
+Hans Van den Broeck,apprentice,Jacques De Fayter,master,25101601
+Arnold Morveau,apprentice,Nicolaes Letaer,master,25101640
+Jan Tyo,apprentice,Peter Coppens,master,26011621
+Hans Mennens,master,Louis Van Grimberghen,apprentice,26031613A
+Matthys Halfhuys,apprentice,Michiel De Haese,master,26031613B
+Christoffel Reyniers,apprentice,Hans Mennens,master,26031613C
+Gillis Nieuwlandt,apprentice,Michiel Van Werckhoven,master,26031619
+Denys Durbry,apprentice,Peter Noveliers,master,26041604
+Jan Jacobs,masters sons,Wouter Jacobs,master,26051641
+Antoon Van Opstal,master,Jan Van Opstal,masters sons,26051650A
+Hendrick Carel Van Daele,apprentice,Peter Van der Borcht,master,26051662
+Jan De Paege,master,Maerten Monckernet,apprentice,26061625A
+Jan De Hies,apprentice,Servaes Coels,master,26071606
+Jan De Vos,master,Peter Seerstevens,apprentice,26091629
+Hieronymus Van Orley,master,Peter Coppens,master,26111611B
+Elias Geeraerts,master,Hans De Buck,apprentice,26111611C
+Francois Van Obberghen,apprentice,Lenard Wauwermans,master,26111613A
+Francois De Backer,master,Maerten Heunis,master,26111613B
+Adam Geeraerts,master,Coenraet Geeraerts,masters sons,26111613C
+Adam Geeraerts,master,Elias Geeraerts,masters sons,27011611
+Johannes Mertens,master,Peter Van den Steen,apprentice,27011612
+Paulus Goddyn,master,Thomas Franck,master,27021617
+Paulus Goddyn,apprentice,Thomas Franck,master,27021617
+Alexander Levens,master,Peter Noveliers,master,27031615
+Alexander Levens,apprentice,Peter Noveliers,master,27031615
+Matthys Van den Steen,master,Nicolaes Vranckx,apprentice,27041627
+Carel De Swert,master,Jan Stockmans,apprentice,27041661
+Jacques Faydherbe,master,Willem Van Yperseel,apprentice,27061624A
+Jacques Faydherbe,master,Willem Van Yperseel,master,27061624A
+Jacques Faydherbe,master,Jan Nys,apprentice,27061631
+Hendrick De Vries,master,Jan Fremont,apprentice,27081610
+Carel Van den Steen,master,Hans Van Kelegem,master,27081613
+Carel Philips Spierinckx,apprentice,Jan Spierinckx,master,27091612
+Carel Philips Spierinckx,apprentice,Michiel De Bordeaux,master,27091612
+Jan Spierinckx,master,Michiel De Bordeaux,master,27091612
+Francois Rusaert,apprentice,Jan De Moralis,master,27101613
+Antoon Van Opstal,master,Philips Bolognino,apprentice,27101649
+Jacob Van Schoens,master,Jacques De Fayter,master,27111613
+Antoon Van Berenbroeck,apprentice,Lanceloot Lefebure,master,27121611
+Dirick Janssens,master,Jacques Roddaert,master,27121613
+Dirick Janssens,apprentice,Jacques Roddaert,master,27121613
+Abraham Van der Schriecke,apprentice,Baptist Gilgodt,master,28011611
+Adriaen Van Zinnick,master,Philips De Coninck,apprentice,28011621
+Fernand Bert,master,Francois Van der Plas,apprentice,28031610
+Hendrick De Vries,master,Willem Boelant,apprentice,28041606
+Antoon Sallaert,master,Jan Baptist Sallaert,apprentice,28041629
+Francois Mossens,master,Philips De Pellegin De Larcon,apprentice,28051620A
+Jacob De Meulder,apprentice,Lucas De Kemp,master,28051620B
+Christoffel Huygens,apprentice,Louis Cousin,master,28051662
+Adriaen Francois Baudewyns,master,Andries Meulebeeck,apprentice,28051682
+Joos ,apprentice,Nicolaes Van den Schilde,master,28051683
+Carolo Lasko,apprentice,Philips Van Bentem,master,28061610
+Augustyn Stom,apprentice,Paulus Goddyn,master,28061618
+Cornelis Gillis,master,Francois Van den Dries,apprentice,28061628
+Francois De Backer,apprentice,Francois Ysenbaut,master,28061667
+Bartholomeus De Smedt,apprentice,Jan Van Velthoven,master,28071618
+David Teniers,master,Salomon Daure Cour,apprentice,28071675A
+David Teniers,master,Johannes Baptist Van Diest,apprentice,28071675B
+Allonse Boyens,apprentice,David Noveliers,master,28091622
+Peter Van Capenborcht,master,Willem Lenaerts,apprentice,28091651
+Antoon Van den Bossche,master,Peter De Backer,apprentice,28091670B
+Antoon Van den Bossche,master,Peter De Backer,master,28091670B
+Passchier Luppens,master,Philips Van Bentem,master,28101613
+Jacques Artois,master,Jan De Sainneville,apprentice,28101639A
+Jan De Broe,apprentice,Lanceloot Lefebure,master,28101639B
+Francois De Backer,master,Huybrecht Van Corttem,apprentice,28111606A
+Antoon De Wiette,apprentice,Peter Noveliers,master,28111606B
+Jan Baptist Weerman,master,Jan Boerman,master,28111613
+Jacques Faydherbe,master,Peter Van Gindertaelen,apprentice,29011636B
+Antoon Van den Bossche,master,Matthys Van den Bosch,masters sons,29011651A
+Bartholomeus Philipsens,masters sons,Hieronymus Fluffens,master,29011651B
+Peter Achtschellinck,master,Philips Van der Elst,master,29011651C
+Gillis Claessens,master,Jan Baptist Grondone,master,29041604
+Jan De Meulder,apprentice,Lucas De Kemp,master,29051638
+Gerard Cosyn,apprentice,Gerard Van Hoochstadt,master,29061616
+Hans Mattheus,apprentice,Jan Mattheus,master,29061618
+David Noveliers,master,Francois Gallaert,apprentice,29061625
+Cornelis Floris,master,Francois Attendael,apprentice,29061628
+Hendrick Van Bronckhorst,masters sons,Jan Van Bronckhorst,master,29061653B
+Francois Reps,apprentice,Thomas Pins,master,29061673
+Hans Van Lyn,apprentice,Jacques Van der Borcht,master,29081602
+Gerard Van Hoochstadt,master,Jan Baptist Deschamps,apprentice,29091651
+Jan [b] Raes,master,Michiel Van Dormael,apprentice,29091672
+Lucas Achtschellinck,apprentice,Peter Van der Borcht,master,29101639
+George Buerchaut,apprentice,Jacob Hanebal,master,30011600A
+Hans De Smedt,master,Lenard Nagels,apprentice,30011600B
+Alexander Dyngens,apprentice,Michiel Hardies,master,30011610
+Hans Clement,master,Salvador Peres,apprentice,30011613
+Antoon Van der Meren,master,Nicolaes Marius,apprentice,30011614A
+Antoon Van der Meren,master,Nicolaes Marius,master,30011614A
+Godfried Rogaerts,master,Philips De Vreese,apprentice,30011614B
+Godfried Rogaerts,master,Philips De Vreese,master,30011614B
+Francois Tons,master,Nicolaes Zerckenis,apprentice,30011614C
+Francois Tons,master,Nicolaes Zerckenis,master,30011614C
+Antoon Van den Bossche,master,Steven Stekeldoore,apprentice,30011637A
+Ambrosius Du Witteme,apprentice,Philips Van der Elst,master,30011637B
+Joos Adriaensen,apprentice,Nicolaes Caussens,master,30031621
+David Noveliers,master,Nicolaes Bertreyn,apprentice,30041616
+Philips Van der Elst,apprentice,Servaes Coels,master,30041620
+Carel Van den Steen,master,Matthys Van den Steen,masters sons,30041626A
+Peter Meerts,apprentice,Philips Van der Elst,master,30041629
+Jan Petit,apprentice,Wouter Jacobs,master,30061610
+Cornelis Floris,master,Lucas Raes,apprentice,30061631
+Nicolaes De Smedt,apprentice,Peter Van der Plas,master,30061637B
+Jan Van Daele,master,Nicolaes De Lagrene,apprentice,30061648A
+Francois Dispo,apprentice,Leo Van Heil,master,30061648B
+Willem Gening,apprentice,[widow of] Prins,master,30071644
+Carel De Kemp,master,Hans Van Dormael,apprentice,30081610
+Antoon Van den Bossche,apprentice,Cornelis Gillis,master,30081623
+Antoon Van den Bossche,master,Cornelis Gillis,master,30081623
+Gillis Van Waeyenbergh,master,Peter De Werremon,apprentice,30081650A
+Florentin Lefebure,apprentice,Jan Van Velthoven,master,30081650B
+Jan Geeraerts,master,Peter De Neck,apprentice,30081650C
+Carel De Swert,master,Jan Baptist Meskens,apprentice,30081675
+Jan De Vos,apprentice,Lenard Wauwermans,master,30101602
+Adriaen Poetterloo,master,Peter Van Potteloy,masters sons,30101609
+Gysbrecht Venus,master,Lanceloot De Coelx,master,30101610
+Carel Alexander Van Geel,apprentice,Jan Van Velthoven,master,30101635
+Hendrick De Lannoy,apprentice,Jan Bouillon,master,30111611
+Antoon Sallaert,master,Daniel De Duck,apprentice,30121626
+Jacques De Groete,master,Maximiliaen De Groete,masters sons,31011600B
+Jan De Vos,master,Lenard Wauwermans,master,31011625
+Jan De Vos,apprentice,Lenard Wauwermans,master,31011625
+Gelaude Habaert,master,Jan Appelmans,apprentice,31011626A
+Peter Coppens,master,Thomas Le Post,apprentice,31011626B
+Francois Coppens,master,Jan Van Meullens,apprentice,31011674
+Gerard Van Hoochstadt,master,Servaes Quebout,apprentice,31031623
+Antoon Sallaert,master,Philips Jan Willeman,apprentice,31031637A
+Peter Snayers,master,Willem Van Schoor,apprentice,31031637B
+Dominicus Seghers,master,Gelaude Habaert,apprentice,31051606
+Adriaen Van Zinnick,master,Jacob Van Grimberghen,apprentice,31051617A
+Peter Le Sellier,apprentice,Willem Van Graenenbroeck,master,31051617B
+Dermitius Claret,apprentice,Jacob De Backer,master,31051640B
+Hans Van den Eynde,master,Hendrick Gieverckx,apprentice,31101626
