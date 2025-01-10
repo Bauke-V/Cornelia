@@ -1,0 +1,107 @@
+\documentclass[12pt]{article}
+\usepackage{url}
+\usepackage{latexsym}
+\usepackage{wrapfig}
+\usepackage{multirow}
+\usepackage{graphicx}
+\graphicspath{}
+\usepackage{booktabs}
+\usepackage{natbib}
+%\bibliographystyle{abbrvnat}
+\setcitestyle{authoryear,open={(},close={)}}
+\usepackage{float}
+\usepackage{listings}
+\usepackage{hyperref}
+
+
+\title{%
+  "The Final Assignment" \\
+  \large Promotions and Social Structures in Guilds in Brussels 1599-1706}
+
+\author{Bauke Verschueren \\ \\
+Introduction to Digital Humanities: Final Report \\ {\tt bauke.verschueren@student.kuleuven.be}}
+
+
+\date{4/01/2025}
+
+\begin{document}
+\maketitle
+
+
+
+\section{Introduction}
+\label{intro}
+
+This report examines the promotions and internal structures of the guilds of painters, gold beaters and stained glass makers in Brussels (1599-1706) using the Cornelia database. Promotions could be achieved through a final assignment, After preparing the data set for analysis, descriptive statistics explore the demographics and professional characteristics of guild members. Then some statistical analysis is done to investigate promotions in the guilds. Lastly, two social networks are then constructed: one linking members to their archival mentions, and another mapping relationships among members to reveal their interconnectedness. 
+
+\section{Cleaning the Data Set}
+\label{label:Cleaning the Data Set}
+To use the data from the database Cornelia for analysis, it first had to be cleaned. This was done with OpenRefine, an open source tool for data cleaning. The main focus of this process was on the "role" and "status" columns. Facets were used there to identify inconsistencies in the data that needed to be consolidated. For example, variants of terms such as \textit{cortosie}, \textit{recognitie}, and \textit{leermeester} were standardized and translated into master. \textit{Ouderman} was replaced by dean, in the same column. Similarly, roles such as \textit{goudslager} were translated into goldsmith. 
+
+Additionally, an attempt was made to reconcile the actor's names with Wikidata. By using the external database, the consistency of the dataset would improve and it ensures its alignment with external records. Unfortunately, most of the actors were not present in the Wikidata database. So, the reconciliation had minimal results. Despite this, the attempt did highlight potential for future enrichment of the data. 
+
+During data visualizations, the main challenge was the limited information in the data set. To get information on, for example, promotions of members, I needed to create several extra calculation fields. The manipulations can be found in this \href{https://github.com/Bauke-V/Cornelia.git}{github repository}
+
+\section{Descriptive Statistics}
+\label{Descriptive Statistics}
+The descriptive statistics of the data set that are described in this part of the report, will examine the demographic and professional characteristics of the actors in the data set. This was done with Tableau, a tool for data visualization. The results of the visualizations are shown on \href{https://public.tableau.com/shared/NX25H3TZ9?:display_count=n&:origin=viz_share_link}{this dashboard}. 
+
+There were four kinds of statuses in these guilds: apprentice, master, master's son, and dean. As shown on this pie chart, most of the members of a guild are apprentices. Then there were the masters, master's sons and deans. This shows the hierarchy of the guilds. Apprentices were people who are learning the profession and stand at the bottom. To be promoted to a higher rank, they likely needed to complete a final assignment, a demonstration of their craftsmanship and skill. Above them were the masters who had shown that they are highly qualified in the profession and teach the apprentices. Their sons needed to start as apprentices too, but their status as a master's son gives them advantages, as will be shown later. Lastly, there are deans, they stand at the head of the guilds. 
+\begin{figure}[!htbp]
+\center
+\includegraphics[scale=0.5]{pie chart.png}
+\caption{Pie chart of status distribution.}
+\label{fig:piechart}
+\end{figure}
+
+The bar chart below this paragraph shows the distribution of the actors in the data set in the different roles. As the role of most actors is unknown, analyzing the data for individual roles will not result in any conclusive insights. 
+\begin{figure}[!htbp]
+\center
+\includegraphics[scale=0.5]{bar chart roles.png}
+\caption{Bar chart of role distribution.}
+\label{fig:barchart}
+\end{figure}
+\begin {figure}[!htbp]
+\center
+\includegraphics[scale=0.8]{period.png}
+\caption{Text table of average period of guild membership per role.}
+\label{fig:texttableperiod}
+\end{figure}
+
+That lack of insights was visible when determining the average period of membership per role. As the original data set did not contain direct information on the period of membership per actor, this was obtained by creating a calculated field in Tableau. For actors who appeared multiple times in the dataset, their membership period was defined as the span between their first and last recorded year. For those who appeared only once, a default membership period of one year was assigned. The average for the group with an unknown role is about eight years while the average for the two \textit{plaatslagers} is 37 years, which does not seem representative.
+
+\section{Statistical Analysis}
+Their professional status seemed to be important for the guild's members and promotions were a significant aspect of the guild life. In this section, statistical analysis will be used to explore these promotions and potentially reveal patterns within the data.However, the data set did not provide explicit info on the promotion of the members. Tableau was used to create calculated fields with which the data could be found.
+
+ Using the enriched dataset, three types of promotions were identified: from apprentice to master, from master's son to master, and from master to dean. The promotions of all different members are visible in the table on the dashboard. The number of promotions was gathered in a separate text table, seen below this paragraph.  It shows that in absolute numbers, the promotions to master were mostly for apprentices. However, if analyzed proportionally, master's sons achieved the promotion to master at a significantly higher rate.
+\begin{figure}[!htbp]
+\center
+\includegraphics[scale=0.7]{promotions_texttable.png}
+\caption{Text table of promotions.}
+\label{fig:texttable_promotions}
+\end{figure}
+\begin{figure}[!htbp]
+\center
+\includegraphics[scale=0.7]{barchart_promotions.png}
+\caption{Bar chart of average time between promotions.}
+\label{fig:barchart_promotions}
+\end{figure}
+
+A bar chart then displays the average amount of time between promotions for each group. There, it's notable that it takes master's sons significantly less time to get promoted to a master then the average apprentice.
+
+ 
+\section{Social Network Analysis}
+Social network analysis further explores guild dynamics, focusing on promotion timelines for apprentices and master's sons. These networks were made using Gephi, a tool for the visualization of networks. The edges- and nodes list were made with python. These can be viewed both by going to the github repository and uploading the files in Gephi or running the folders "actor to actor/network" and "  actor to source entries/" through a web server. 
+
+The first network connects guild members to archival mentions.  
+This network mainly shows the hierarchal nature of the guilds. Most deans are at the center of the network connected to each other, while many of the masters and apprentices find themselves on the outside, unconnected. 
+
+The second network shows the connections between actors, without the source entries. This way, the relationships that members have with each other are more visible. It shows two kinds of relationships are important for the structure of the network, the relationships between deans and the relationship between masters and master's sons. They formed the bridges to different smaller clusters of masters and apprentices within the larger network. These connections likely facilitated faster promotions for master's sons, as they bridged clusters of masters and apprentices.
+
+
+
+\section{Conclusion and Discussion}
+\label{Conlusion}
+The analysis of the data shows the hierarchal nature of guilds in which members could rise up through promotions. Apprentices and master's sons could become masters and masters could become deans that lead the guild. However, the disproportional promotion rates between apprentices and master's sons also became clear. It suggests that their level of skill and experience was not the only factor that played a role. In that case, the quality of their final assignment did not matter as much. Familial connections seemed to have played a role. Social network analysis this, the master's sons were integral for the social structures of the guilds. They connected different clusters of master's and their apprentices, which probably gave them more opportunities to present their final assignment to become a master earlier. Further research into the difference between roles and guilds could be done when the dataset becomes larger and more information becomes available. 
+
+\end{document}
